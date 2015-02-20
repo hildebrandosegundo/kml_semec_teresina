@@ -3,39 +3,9 @@
 <Document>
 	<name>escolas semec 1.KMZ</name>
 	<open>1</open>
-	<Style id="sn_ranger_station50">
+	<Style id="sh_ranger_station30">
 		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="failed">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#failed1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#failed0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station0">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station26">
-		<IconStyle>
-			<color>ff00ffff</color>
+			<color>ffff55aa</color>
 			<scale>1.08</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
@@ -43,24 +13,14 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-	<Style id="sh_ranger_station28">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station13">
+	<StyleMap id="msn_ranger_station70">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ranger_station14</styleUrl>
+			<styleUrl>#sn_ranger_station50</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ranger_station14</styleUrl>
+			<styleUrl>#sh_ranger_station20</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="sn_ranger_station00">
@@ -73,6 +33,76 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
+	<StyleMap id="msn_ranger_station00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station40">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station17">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station26">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station70</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="hl">
 		<IconStyle>
 			<color>ff0055ff</color>
@@ -83,90 +113,20 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-	<Style id="failed1">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station0">
+	<StyleMap id="msn_ranger_station2">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ranger_station16</styleUrl>
+			<styleUrl>#sn_ranger_station26</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ranger_station7</styleUrl>
+			<styleUrl>#sh_ranger_station3</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ranger_station70">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station50</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station20</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station5">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station12">
+	<Style id="sn_ranger_station3">
 		<IconStyle>
 			<color>ff0055ff</color>
 			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station19">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station1">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station29</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station24</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station15">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station31">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
 			</Icon>
@@ -183,99 +143,69 @@
 			<styleUrl>#sh_ranger_station1</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ranger_station17">
+	<Style id="sh_ranger_station1">
 		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
+			<color>ffffaa00</color>
+			<scale>1.08</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_ranger_station30">
+	<Style id="sh_ranger_station60">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.08</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ranger_station70">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>1.08</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station13">
+		<IconStyle>
+			<color>ff00ffff</color>
+			<scale>1.08</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station110">
 		<Pair>
 			<key>normal</key>
 			<styleUrl>#sn_ranger_station00</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ranger_station60</styleUrl>
+			<styleUrl>#sh_ranger_station40</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ranger_station">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station29">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station23</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station19</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station22">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station17">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station23">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station6">
+	<Style id="sn_ranger_station110">
 		<IconStyle>
 			<color>ffffaa00</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station25">
-		<IconStyle>
-			<color>ff0055ff</color>
 			<scale>0.9</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
@@ -293,80 +223,20 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_ranger_station3">
+	<StyleMap id="msn_ranger_station21">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ranger_station7</styleUrl>
+			<styleUrl>#sn_ranger_station110</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ranger_station18</styleUrl>
+			<styleUrl>#sh_ranger_station80</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="sn_ranger_station5">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station18">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station8</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station16">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station11</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station7">
+	<Style id="sh_ranger_station40">
 		<IconStyle>
 			<color>ffff55aa</color>
 			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station24">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station26">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station4">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
 			</Icon>
@@ -383,799 +253,9 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="msn_ranger_station5">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station27">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station22</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station27</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station28</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station19">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station1">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station29">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station3</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station70</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station60">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station40">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station17</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station30</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station40">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station12">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station11">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station21">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station110</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station80</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station23">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station4">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station9</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station11</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station24">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station18</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station23</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station1</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station16</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station25">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station26">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station30</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station21</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station3">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station18">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station14">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="default">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station30">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station13">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station28">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station27</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station2">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station15">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station19</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station26</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station22">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station25</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station29</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station16">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station11">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station1">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station9">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station7">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="default0">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station21</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station25</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station22">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station8">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station24">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station25">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station28</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station3">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station16">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station14">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
 	<Style id="sh_ranger_station00">
 		<IconStyle>
 			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station0">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station6">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station14">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station15</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station4</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station2">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station50">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.05</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station110">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station40</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station19">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station5</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station15</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station110">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station60">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station40</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station13</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station8">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station30">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station29">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station13">
-		<IconStyle>
-			<color>ffffaa00</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station50">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station20</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station00</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station10">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station20">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station12">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station10</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station10">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station22</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station70">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station23">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station12</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station9</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station9">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station8">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station8</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station17</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ranger_station2">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station26</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_ranger_station10">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station17">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station24</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station31</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station21">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station9">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station13</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station12</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station27">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station4">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_ranger_station00">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ranger_station00</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ranger_station50</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_ranger_station18">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station21">
-		<IconStyle>
-			<color>ff0055ff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sn_ranger_station28">
-		<IconStyle>
-			<color>ffff55aa</color>
-			<scale>0.9</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station27">
-		<IconStyle>
-			<color>ff00ffff</color>
-			<scale>1.08</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
-			</Icon>
-			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
-		</IconStyle>
-	</Style>
-	<Style id="sh_ranger_station15">
-		<IconStyle>
-			<color>ff0055ff</color>
 			<scale>1.08</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
@@ -1193,10 +273,90 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-	<Style id="sn_ranger_station40">
+	<Style id="failed1">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station20">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ranger_station50">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="default">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station50">
+		<IconStyle>
+			<color>ffff55aa</color>
+			<scale>1.05</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="default0">
+		<IconStyle>
+			<color>ff0055ff</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station50">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station3">
 		<IconStyle>
 			<color>ff00ffff</color>
-			<scale>0.9</scale>
+			<scale>1.08</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
 			</Icon>
@@ -1478,377 +638,6 @@
 			<styleUrl>#msn_ranger_station2</styleUrl>
 			<Point>
 				<coordinates>-42.7590405009,-5.0473453797,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSORA HILDA MARIA LEMOS DOS SANTOS<BR><BR><B>OBJECTID</B> = 41<BR><BR><B>ORD</B> = 40<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44058<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = PROFESSORA HILDA MARIA LEMOS DOS SANTOS<BR><BR><B>EnderecoLo</B> = Res Francisca Trindade<BR><BR><B>Bairro</B> = Residencial Francisca Trindade<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3226-7310<BR><BR><B>Diretor</B> = MARIA CARMEM BEZERRA LIMA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 40<BR><BR><B>Geometry_X</B> = 7.40334000025e+005<BR><BR><B>Geometry_Y</B> = 9.44756199995e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station10</styleUrl>
-			<Point>
-				<coordinates>-42.8328659211,-4.994755931,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSORA ZELIA CALIXTO DE ARAUJO SOUSA<BR><BR><B>OBJECTID</B> = 42<BR><BR><B>ORD</B> = 41<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44059<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = PROFESSORA ZELIA CALIXTO DE ARAUJO SOUSA<BR><BR><B>EnderecoLo</B> = Av. Amadeus Paulo, S/Nº, Monte alegre<BR><BR><B>Bairro</B> = Santa Rosa<BR><BR><B>Cep</B> = 64012-560<BR><BR><B>Fone</B> = 3225-1200<BR><BR><B>Diretor</B> = GLAUBENISA MOREIRA DE SOUSA SA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = ALBANIZA MOREIRA DE ARAUJO<BR><BR><B>NomeSecret</B> = MARIA DOS MILAGRES PORTUGAL NASCIMENTO<BR><BR><B>ID1</B> = 41<BR><BR><B>Geometry_X</B> = 7.41414999962e+005<BR><BR><B>Geometry_Y</B> = 9.44641500001e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station10</styleUrl>
-			<Point>
-				<coordinates>-42.823087244,-5.0050926262,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[RAIMUNDA MARTINS NUNES PORTELA<BR><BR><B>OBJECTID</B> = 43<BR><BR><B>ORD</B> = 42<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44060<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = RAIMUNDA MARTINS NUNES PORTELA<BR><BR><B>EnderecoLo</B> = Rua Aracruz S/N, Porte do Centro<BR><BR><B>Bairro</B> = Porto do Centro<BR><BR><B>Cep</B> = 64060-360<BR><BR><B>Fone</B> = 3216-7822<BR><BR><B>Diretor</B> = FRANCISCA DE OLIVEIRA COSTA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 42<BR><BR><B>Geometry_X</B> = 7.49026999969e+005<BR><BR><B>Geometry_Y</B> = 9.44217199994e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station18</styleUrl>
-			<Point>
-				<coordinates>-42.754340032,-5.0432160525,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSORA TERESINHA DE JESUS E SILVA<BR><BR><B>OBJECTID</B> = 44<BR><BR><B>ORD</B> = 43<BR><BR><B>Zona</B> = Sudeste<BR><BR><B>CodigoLota</B> = 44061<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = PROFESSORA TERESINHA DE JESUS E SILVA<BR><BR><B>EnderecoLo</B> = Rua São Raimundo, S/Nº Todos os Santos<BR><BR><B>Bairro</B> = Todos os Santos<BR><BR><B>Cep</B> = 64088-620<BR><BR><B>Fone</B> = 3236-3844/32354436<BR><BR><B>Diretor</B> = AUREA AVELINO M ALVARENGA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 43<BR><BR><B>Geometry_X</B> = 7.52674000036e+005<BR><BR><B>Geometry_Y</B> = 9.43642599994e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station16</styleUrl>
-			<Point>
-				<coordinates>-42.7212824817,-5.0950421153,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[SANTA FRANCISCA CABRINI<BR><BR><B>OBJECTID</B> = 45<BR><BR><B>ORD</B> = 44<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44062<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = SANTA FRANCISCA CABRINI<BR><BR><B>EnderecoLo</B> = Rua São Judas Tadeu 4353, Vila Irmã Dulce<BR><BR><B>Bairro</B> = Angelim<BR><BR><B>Cep</B> = 64040-367<BR><BR><B>Fone</B> = 3219-1444<BR><BR><B>Diretor</B> = MARIA ALCIONEIA BRITO FONTENELE<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 44<BR><BR><B>Geometry_X</B> = 7.47950999968e+005<BR><BR><B>Geometry_Y</B> = 9.42528499999e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station24</styleUrl>
-			<Point>
-				<coordinates>-42.7635091762,-5.1959025051,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[LDA MARIA ALMENDRA FREITAS CASTELO BRANCO<BR><BR><B>OBJECTID</B> = 46<BR><BR><B>ORD</B> = 45<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44063<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = ALDA MARIA ALMENDRA FREITAS CASTELO BRANCO<BR><BR><B>EnderecoLo</B> = Santa Teresa Estaca Zero<BR><BR><B>Bairro</B> = -<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3231-2727<BR><BR><B>Diretor</B> = MARIA CRISTINA DOS SANTOS PAULO<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 45<BR><BR><B>Geometry_X</B> = 7.60632999979e+005<BR><BR><B>Geometry_Y</B> = 9.44933500002e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station3</styleUrl>
-			<Point>
-				<coordinates>-42.6499531739,-4.9780997873,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[GEOVANE PRADO<BR><BR><B>OBJECTID</B> = 47<BR><BR><B>ORD</B> = 46<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44064<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = GEOVANE PRADO<BR><BR><B>EnderecoLo</B> = Rua 11 com rua 8, nº. 4104<BR><BR><B>Bairro</B> = Geovane Prado<BR><BR><B>Cep</B> = <BR><BR><B>Fone</B> = 3231 5695<BR><BR><B>Diretor</B> = FRANCISCA DA CRUZ E S BATISTA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 46<BR><BR><B>Geometry_X</B> = 7.50290000034e+005<BR><BR><B>Geometry_Y</B> = 9.44173900001e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station3</styleUrl>
-			<Point>
-				<coordinates>-42.7429412531,-5.0470907304,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[JOÃO PAULO II<BR><BR><B>OBJECTID</B> = 48<BR><BR><B>ORD</B> = 47<BR><BR><B>Zona</B> = Sudeste<BR><BR><B>CodigoLota</B> = 44065<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = JOÃO PAULO II<BR><BR><B>EnderecoLo</B> = Rua Paraíso, S/N Lot. Verde Cap, Usina Santana<BR><BR><B>Bairro</B> = Santana<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3233-3612<BR><BR><B>Diretor</B> = SILVANIA RAMOS DA COSTA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 47<BR><BR><B>Geometry_X</B> = 7.55562999975e+005<BR><BR><B>Geometry_Y</B> = 9.43063300000e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station9</styleUrl>
-			<Point>
-				<coordinates>-42.6950507786,-5.147313642,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[MADRE TERESA DE CALCUTÁ<BR><BR><B>OBJECTID</B> = 49<BR><BR><B>ORD</B> = 48<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44066<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = MADRE TERESA DE CALCUTÁ<BR><BR><B>EnderecoLo</B> = Av. Monte Dourado,S/N, Vila Santa Bárbara<BR><BR><B>Bairro</B> = Verde Lar<BR><BR><B>Cep</B> = 64071-610<BR><BR><B>Fone</B> = 3234-9961<BR><BR><B>Diretor</B> = LIA RAQUEL GOMES DE MELO<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 48<BR><BR><B>Geometry_X</B> = 7.51416000035e+005<BR><BR><B>Geometry_Y</B> = 9.44159799994e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station8</styleUrl>
-			<Point>
-				<coordinates>-42.7327865706,-5.0483299311,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[DALAI LAMA<BR><BR><B>OBJECTID</B> = 50<BR><BR><B>ORD</B> = 49<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44067<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = DALAI LAMA<BR><BR><B>EnderecoLo</B> = Povoado Boas Hora<BR><BR><B>Bairro</B> = Povoado Boa Hora<BR><BR><B>Cep</B> = 64012-991<BR><BR><B>Fone</B> = 3232-1022<BR><BR><B>Diretor</B> = MARIA DA  GRACA  LAGES COARACY<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 49<BR><BR><B>Geometry_X</B> = 7.35816999956e+005<BR><BR><B>Geometry_Y</B> = 9.45877599996e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station25</styleUrl>
-			<Point>
-				<coordinates>-42.8739074855,-4.8935102693,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[CHICO MENDES<BR><BR><B>OBJECTID</B> = 51<BR><BR><B>ORD</B> = 50<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44069<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = CHICO  MENDES<BR><BR><B>EnderecoLo</B> = Rua Betinho, c 12<BR><BR><B>Bairro</B> = Porto Alegre<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3219-5709<BR><BR><B>Diretor</B> = ELANNY KATIA BESERRA L VERDE<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 50<BR><BR><B>Geometry_X</B> = 7.49333774600e+005<BR><BR><B>Geometry_Y</B> = 9.42645138590e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station20</styleUrl>
-			<Point>
-				<coordinates>-42.7510785548,-5.1853145418,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[MAHATMA GANDHI<BR><BR><B>OBJECTID</B> = 52<BR><BR><B>ORD</B> = 51<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44071<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = MAHATMA GANDHI<BR><BR><B>EnderecoLo</B> = Rua Mário Soares, s / Nº Res. SATURNO<BR><BR><B>Bairro</B> = Samapi<BR><BR><B>Cep</B> = 64058-340<BR><BR><B>Fone</B> = 3231-1423<BR><BR><B>Diretor</B> = MARIA SELMA PEREIRA DA SILVA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = FRANCELINA OLIVEIRA MACEDO<BR><BR><B>ID1</B> = 51<BR><BR><B>Geometry_X</B> = 7.48212000032e+005<BR><BR><B>Geometry_Y</B> = 9.44097599994e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station27</styleUrl>
-			<Point>
-				<coordinates>-42.7616497742,-5.0540528659,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[MONSENHOR CHAVES<BR><BR><B>OBJECTID</B> = 53<BR><BR><B>ORD</B> = 52<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44072<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = MONSENHOR CHAVES<BR><BR><B>EnderecoLo</B> = Conj. Vamos Ver o  Sol<BR><BR><B>Bairro</B> = Santo Antônio<BR><BR><B>Cep</B> = <BR><BR><B>Fone</B> = 3227-7246<BR><BR><B>Diretor</B> = MARIA ELIETE PAIXAO SANTOS<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 52<BR><BR><B>Geometry_X</B> = 7.48986840400e+005<BR><BR><B>Geometry_Y</B> = 9.43027836860e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station17</styleUrl>
-			<Point>
-				<coordinates>-42.7543285516,-5.1507312616,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[MARIANA DA SILVA SANTOS<BR><BR><B>OBJECTID</B> = 54<BR><BR><B>ORD</B> = 53<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44073<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = MARIANA DA SILVA SANTOS<BR><BR><B>EnderecoLo</B> = Rua Principal, s/n<BR><BR><B>Bairro</B> = Santa Rosa<BR><BR><B>Cep</B> = 64012-780<BR><BR><B>Fone</B> = 3217-6240<BR><BR><B>Diretor</B> = ROSILDA RODRIGUES LIMA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 53<BR><BR><B>Geometry_X</B> = 7.43182001000e+005<BR><BR><B>Geometry_Y</B> = 9.42161302710e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station17</styleUrl>
-			<Point>
-				<coordinates>-42.8063951361,-5.2292478113,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[MARIA ALVES DA SILVA SANTOS<BR><BR><B>OBJECTID</B> = 55<BR><BR><B>ORD</B> = 54<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44074<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = MARIA ALVES DA SILVA SANTOS<BR><BR><B>EnderecoLo</B> = Rua 03 s/n Projeto Casulo<BR><BR><B>Bairro</B> = Povoado Alegria<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3217-0165<BR><BR><B>Diretor</B> = MARIA DAS NEVES DA S E SILVA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 54<BR><BR><B>Geometry_X</B> = 7.49730193700e+005<BR><BR><B>Geometry_Y</B> = 9.43139121250e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station17</styleUrl>
-			<Point>
-				<coordinates>-42.7476618959,-5.1406479437,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[SAGRADO CORAÇÃO DE JESUS<BR><BR><B>OBJECTID</B> = 56<BR><BR><B>ORD</B> = 55<BR><BR><B>Zona</B> = Sudeste<BR><BR><B>CodigoLota</B> = 44075<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = SAGRADO CORAÇÃO DE JESUS<BR><BR><B>EnderecoLo</B> = Taboca do Pau Ferrado<BR><BR><B>Bairro</B> = Taboca do Pau Ferrado<BR><BR><B>Cep</B> = 64090-990<BR><BR><B>Fone</B> = 99379561<BR><BR><B>Diretor</B> = DILZAMAR ARAUJO MENDES<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 55<BR><BR><B>Geometry_X</B> = 7.58781548500e+005<BR><BR><B>Geometry_Y</B> = 9.43708019650e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station11</styleUrl>
-			<Point>
-				<coordinates>-42.6662453543,-5.0889313517,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[CHICO XAVIER<BR><BR><B>OBJECTID</B> = 57<BR><BR><B>ORD</B> = 56<BR><BR><B>Zona</B> = Sudeste<BR><BR><B>CodigoLota</B> = 44077<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = CHICO XAVIER<BR><BR><B>EnderecoLo</B> = Rua Rio Verde II, s/n, Conjunto Renascença III<BR><BR><B>Bairro</B> = São Sebastião<BR><BR><B>Cep</B> = 64084-010<BR><BR><B>Fone</B> = 3234-9596<BR><BR><B>Diretor</B> = MARLETE ELAINE RODRIGUES<BR><BR><B>NomeAdjunt</B> = DOMINGAS PEREIRA DA ALMEIDA<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 56<BR><BR><B>Geometry_X</B> = 7.51307802734e+005<BR><BR><B>Geometry_Y</B> = 9.43579226308e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station11</styleUrl>
-			<Point>
-				<coordinates>-42.7335787096,-5.1008142965,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[ANTONIO ALVES DE HOLANDA<BR><BR><B>OBJECTID</B> = 58<BR><BR><B>ORD</B> = 57<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44078<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = ANTONIO ALVES DE HOLANDA<BR><BR><B>EnderecoLo</B> = Estrada Principal, s /n<BR><BR><B>Bairro</B> = Povoado Nova<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3235-6153<BR><BR><B>Diretor</B> = MARIA MIRIAM DE O SOUSA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 57<BR><BR><B>Geometry_X</B> = 7.56016670600e+005<BR><BR><B>Geometry_Y</B> = 9.45630076700e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station6</styleUrl>
-			<Point>
-				<coordinates>-42.6917786598,-4.9152816195,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[FRANCISCA DE SOUSA PACHECO<BR><BR><B>OBJECTID</B> = 59<BR><BR><B>ORD</B> = 58<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44080<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = FRANCISCA DE SOUSA PACHECO<BR><BR><B>EnderecoLo</B> = Rua 9, Casa 06, Conjunto Residencial Dignidade<BR><BR><B>Bairro</B> = Angelim<BR><BR><B>Cep</B> = 64034-400<BR><BR><B>Fone</B> = 3227-7680<BR><BR><B>Diretor</B> = MARIA DO SOCORRO DE MELO<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = ALINE CRISTINA ALVES DA CRUZ<BR><BR><B>ID1</B> = 58<BR><BR><B>Geometry_X</B> = 7.45416000029e+005<BR><BR><B>Geometry_Y</B> = 9.42828100000e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station19</styleUrl>
-			<Point>
-				<coordinates>-42.7864609531,-5.168899901,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[AMÉLIA BEVILAQUA<BR><BR><B>OBJECTID</B> = 60<BR><BR><B>ORD</B> = 59<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44081<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = AMÉLIA BEVILAQUA<BR><BR><B>EnderecoLo</B> = Rua Conceição Vieira, S/N<BR><BR><B>Bairro</B> = Santa Rosa<BR><BR><B>Cep</B> = 64012-460<BR><BR><B>Fone</B> = 3226-9734<BR><BR><B>Diretor</B> = TERESA CRISTINA C DE SOUSA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 59<BR><BR><B>Geometry_X</B> = 7.39166000023e+005<BR><BR><B>Geometry_Y</B> = 9.44871700001e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station7</styleUrl>
-			<Point>
-				<coordinates>-42.843428758,-4.9843492044,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[JOSE JOAO DE MAGALHAES BRAGA<BR><BR><B>OBJECTID</B> = 61<BR><BR><B>ORD</B> = 60<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44082<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = JOSE JOAO DE MAGALHAES BRAGA<BR><BR><B>EnderecoLo</B> = Rua 7 s/n - Lote Santa Maria da Codipi<BR><BR><B>Bairro</B> = Santa Maria da Codipi<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3226-3407<BR><BR><B>Diretor</B> = MARIA ROCHANIA C SILVA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 60<BR><BR><B>Geometry_X</B> = 7.40990566200e+005<BR><BR><B>Geometry_Y</B> = 9.44860418970e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station7</styleUrl>
-			<Point>
-				<coordinates>-42.8269784531,-4.9853148531,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[ARVORES VERDES<BR><BR><B>OBJECTID</B> = 62<BR><BR><B>ORD</B> = 61<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44083<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = ARVORES VERDES<BR><BR><B>EnderecoLo</B> = Ter. 430, Estrada da Cacimba Velha<BR><BR><B>Bairro</B> = -<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3235-6287<BR><BR><B>Diretor</B> = LORENA SOARES AMORIM WERCKLOSE<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 61<BR><BR><B>Geometry_X</B> = 7.56344437100e+005<BR><BR><B>Geometry_Y</B> = 9.44635781750e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station5</styleUrl>
-			<Point>
-				<coordinates>-42.6885119922,-5.0051481486,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[VALQUIRIA FERRAZ SOUSA<BR><BR><B>OBJECTID</B> = 63<BR><BR><B>ORD</B> = 62<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44084<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = VALQUIRIA FERRAZ SOUSA<BR><BR><B>EnderecoLo</B> = Av Maranhão, s/n Vila Parnaíba<BR><BR><B>Bairro</B> = Santa Luzia<BR><BR><B>Cep</B> = 64020-075<BR><BR><B>Fone</B> = 3229-6616<BR><BR><B>Diretor</B> = SANDRA LUCIA DE SOUSA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 62<BR><BR><B>Geometry_X</B> = 7.42357615700e+005<BR><BR><B>Geometry_Y</B> = 9.43449203070e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station28</styleUrl>
-			<Point>
-				<coordinates>-42.8142284647,-5.1128479901,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[MARIA AMÉLIA FREITAS MENDES DE OLIVEIRA<BR><BR><B>OBJECTID</B> = 64<BR><BR><B>ORD</B> = 63<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44085<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = MARIA AMÉLIA FREITAS MENDES DE OLIVEIRA<BR><BR><B>EnderecoLo</B> = Rua 12, s/n, Orgmar Monteiro<BR><BR><B>Bairro</B> = Planalto uruguai<BR><BR><B>Cep</B> = <BR><BR><B>Fone</B> = 3234-5160<BR><BR><B>Diretor</B> = CONCEICAO DE M G SANTANA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 63<BR><BR><B>Geometry_X</B> = 7.50699275600e+005<BR><BR><B>Geometry_Y</B> = 9.44046457950e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station1</styleUrl>
-			<Point>
-				<coordinates>-42.7392119138,-5.0585980692,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[JOÃO NONON DE MOURA FONTES IBIAPINA<BR><BR><B>OBJECTID</B> = 65<BR><BR><B>ORD</B> = 64<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44086<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = JOÃO NONON DE MOURA FONTES  IBIAPINA<BR><BR><B>EnderecoLo</B> = Rua 05, Res. João Paulo II<BR><BR><B>Bairro</B> = Angelim<BR><BR><B>Cep</B> = 64040-785<BR><BR><B>Fone</B> = 3227-3287<BR><BR><B>Diretor</B> = CRISTIANE MELO DE C C BRANCO<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 64<BR><BR><B>Geometry_X</B> = 7.46478452600e+005<BR><BR><B>Geometry_Y</B> = 9.42765987150e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station19</styleUrl>
-			<Point>
-				<coordinates>-42.7768618498,-5.1744812268,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[RECANTO DOS PASSAROS<BR><BR><B>OBJECTID</B> = 66<BR><BR><B>ORD</B> = 65<BR><BR><B>Zona</B> = Sudeste<BR><BR><B>CodigoLota</B> = 44087<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = RECANTO DOS PASSAROS<BR><BR><B>EnderecoLo</B> = Vila Recanto dos Pássaros<BR><BR><B>Bairro</B> = Todos os Santos<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3235-9391<BR><BR><B>Diretor</B> = MARIA DE JESUS A E SILVA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 65<BR><BR><B>Geometry_X</B> = 7.54005747600e+005<BR><BR><B>Geometry_Y</B> = 9.43388541770e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station</styleUrl>
-			<Point>
-				<coordinates>-42.7091952887,-5.1179646433,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[SÃO VICENTE<BR><BR><B>OBJECTID</B> = 67<BR><BR><B>ORD</B> = 66<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44088<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = SÃO VICENTE<BR><BR><B>EnderecoLo</B> = PI 112, Km 20 Asão Vicente<BR><BR><B>Bairro</B> = Socopo<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = <BR><BR><B>Diretor</B> = HELENILDA MARIA LOPES<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 66<BR><BR><B>Geometry_X</B> = 7.45114624500e+005<BR><BR><B>Geometry_Y</B> = 9.45719861070e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station15</styleUrl>
-			<Point>
-				<coordinates>-42.790061846,-4.9074983034,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[CHAPADINHA SUL<BR><BR><B>OBJECTID</B> = 68<BR><BR><B>ORD</B> = 67<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44089<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = CHAPADINHA SUL<BR><BR><B>EnderecoLo</B> = Povoado Chapandinha Sul<BR><BR><B>Bairro</B> = -<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = <BR><BR><B>Diretor</B> = MARIA ARDILENE DA MATA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 67<BR><BR><B>Geometry_X</B> = 7.53720003300e+005<BR><BR><B>Geometry_Y</B> = 9.41372824380e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station22</styleUrl>
-			<Point>
-				<coordinates>-42.7111119411,-5.3001810302,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[SANTA MARIA<BR><BR><B>OBJECTID</B> = 69<BR><BR><B>ORD</B> = 68<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44090<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = SANTA MARIA<BR><BR><B>EnderecoLo</B> = Rua Cícero Carvalho, 2861<BR><BR><B>Bairro</B> = Planalto<BR><BR><B>Cep</B> = 64050-155<BR><BR><B>Fone</B> = 8816-7110<BR><BR><B>Diretor</B> = ANA ILDA DE MELO LIMA SILVA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 68<BR><BR><B>Geometry_X</B> = 7.46829507712e+005<BR><BR><B>Geometry_Y</B> = 9.44050686632e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station13</styleUrl>
-			<Point>
-				<coordinates>-42.7740980683,-5.0583366298,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[DOM MIGUEL CÂMARA<BR><BR><B>OBJECTID</B> = 70<BR><BR><B>ORD</B> = 69<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44091<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = DOM MIGUEL CÂMARA<BR><BR><B>EnderecoLo</B> = Rua Marcos Parente, 1416<BR><BR><B>Bairro</B> = Fátima<BR><BR><B>Cep</B> = 64049-544<BR><BR><B>Fone</B> = 3233-6083<BR><BR><B>Diretor</B> = MARIA DE FATIMA MONTEIRO COELHO<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 69<BR><BR><B>Geometry_X</B> = 7.44204726500e+005<BR><BR><B>Geometry_Y</B> = 9.44056063920e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station13</styleUrl>
-			<Point>
-				<coordinates>-42.7977618255,-5.0579314067,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[SÃO FRANCISCO<BR><BR><B>OBJECTID</B> = 71<BR><BR><B>ORD</B> = 70<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44092<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = SÃO FRANCISCO<BR><BR><B>EnderecoLo</B> = Alegria<BR><BR><B>Bairro</B> = Cantinho Sul<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 9449-4689<BR><BR><B>Diretor</B> = MARIA DA CONCEIÇÃO DO S. MORAIS<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 70<BR><BR><B>Geometry_X</B> = 7.51210710800e+005<BR><BR><B>Geometry_Y</B> = 9.43132882340e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station26</styleUrl>
-			<Point>
-				<coordinates>-42.7343119164,-5.1411646091,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[TIA LYGIA<BR><BR><B>OBJECTID</B> = 72<BR><BR><B>ORD</B> = 71<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44093<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = TIA LYGIA<BR><BR><B>EnderecoLo</B> = Av Barão de Castelo Branco, 1946<BR><BR><B>Bairro</B> = Cidade Nova<BR><BR><B>Cep</B> = 64016-410<BR><BR><B>Fone</B> = 3222-4043<BR><BR><B>Diretor</B> = MARIA DO SOCORRO L MIRANDA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 71<BR><BR><B>Geometry_X</B> = 7.45070206600e+005<BR><BR><B>Geometry_Y</B> = 9.43576411620e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station26</styleUrl>
-			<Point>
-				<coordinates>-42.7898118349,-5.1012646734,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSOR FRANCISCO DAS CHAGAS VENANCIO<BR><BR><B>OBJECTID</B> = 73<BR><BR><B>ORD</B> = 72<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44094<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = PROFESSOR FRANCISCO DAS CHAGAS VENANCIO<BR><BR><B>EnderecoLo</B> = Avenida Dezenove/ de Outubro. S/N<BR><BR><B>Bairro</B> = Lourival Parente<BR><BR><B>Cep</B> = 64022-132<BR><BR><B>Fone</B> = 3216-5086<BR><BR><B>Diretor</B> = KARLA CELENE DE SOUSA RAMOS<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 72<BR><BR><B>Geometry_X</B> = 7.45886240000e+005<BR><BR><B>Geometry_Y</B> = 9.43170702010e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station26</styleUrl>
-			<Point>
-				<coordinates>-42.7823285105,-5.1379146167,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[ZÉLIA GATTAI AMADO<BR><BR><B>OBJECTID</B> = 74<BR><BR><B>ORD</B> = 73<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44096<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = ZÉLIA GATTAI AMADO<BR><BR><B>EnderecoLo</B> = Qd E casa 14, Conj Cintia Portela<BR><BR><B>Bairro</B> = Matadouro<BR><BR><B>Cep</B> = 64004-310<BR><BR><B>Fone</B> = 3213-2005<BR><BR><B>Diretor</B> = MARIA DO SOCORRO DE C LIMA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 73<BR><BR><B>Geometry_X</B> = 7.40218701800e+005<BR><BR><B>Geometry_Y</B> = 9.43941992860e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station0</styleUrl>
-			<Point>
-				<coordinates>-42.8336617709,-5.0683647266,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSORA ROSEANA MARIA MARTINS DE LIMA<BR><BR><B>OBJECTID</B> = 75<BR><BR><B>ORD</B> = 74<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44097<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = PROFESSORA ROSEANA MARIA MARTINS DE LIMA<BR><BR><B>EnderecoLo</B> = Rua Canavieira, s/n, Res. Taquari,<BR><BR><B>Bairro</B> = Vale Quem Tem<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3234-5693<BR><BR><B>Diretor</B> = MARIA FRANCISCA  F.  DO NASCIMENTO<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 74<BR><BR><B>Geometry_X</B> = 7.49984628100e+005<BR><BR><B>Geometry_Y</B> = 9.44177796280e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station14</styleUrl>
-			<Point>
-				<coordinates>-42.7456952375,-5.046748088,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSOR JÚLIO CÉSAR ARAÚJO DE OLIVEIRA<BR><BR><B>OBJECTID</B> = 76<BR><BR><B>ORD</B> = 75<BR><BR><B>Zona</B> = Leste<BR><BR><B>CodigoLota</B> = 44098<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = PROFESSOR JÚLIO CÉSAR ARAÚJO DE OLIVEIRA<BR><BR><B>EnderecoLo</B> = Res. Padre Cícero<BR><BR><B>Bairro</B> = Santo Elias<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 3216-1519<BR><BR><B>Diretor</B> = NORDELY DE O. NORONHA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 75<BR><BR><B>Geometry_X</B> = 7.49325951700e+005<BR><BR><B>Geometry_Y</B> = 9.44003606920e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station14</styleUrl>
-			<Point>
-				<coordinates>-42.7515785609,-5.0625147308,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[RUTH CORREIA LEITE CARDOSO<BR><BR><B>OBJECTID</B> = 77<BR><BR><B>ORD</B> = 76<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44099<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = RUTH CORREIA LEITE CARDOSO<BR><BR><B>EnderecoLo</B> = Rua Estômato,s/nº<BR><BR><B>Bairro</B> = Vila Irmã Dulce<BR><BR><B>Cep</B> = -<BR><BR><B>Fone</B> = 32297121<BR><BR><B>Diretor</B> = AZENATE ALVES RODRIGUES<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = ANDREA MARCIA DA SILVA ALMEIDA<BR><BR><B>ID1</B> = 76<BR><BR><B>Geometry_X</B> = 7.45817075000e+005<BR><BR><B>Geometry_Y</B> = 9.42565254980e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station23</styleUrl>
-			<Point>
-				<coordinates>-42.7827618399,-5.1926478657,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[EURIPEDES DE AGUIAR<BR><BR><B>OBJECTID</B> = 78<BR><BR><B>ORD</B> = 77<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44100<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = EURIPEDES DE AGUIAR<BR><BR><B>EnderecoLo</B> = R. Coelho de Resende, 1825<BR><BR><B>Bairro</B> = Marquês de Paranaguá<BR><BR><B>Cep</B> = 64002-470<BR><BR><B>Fone</B> = 3215-7954/3215-7677<BR><BR><B>Diretor</B> = MARIA DO SOCORRO R E SILVA<BR><BR><B>NomeAdjunt</B> = ITAMAR GOMES DE SOUSA JUNIOR<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = EVALDO BATISTA MANGUEIRA<BR><BR><B>ID1</B> = 77<BR><BR><B>Geometry_X</B> = 7.42447102599e+005<BR><BR><B>Geometry_Y</B> = 9.43889234043e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station4</styleUrl>
-			<Point>
-				<coordinates>-42.813556117,-5.0730664919,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[DELMIRA COELHO MACHADO<BR><BR><B>OBJECTID</B> = 79<BR><BR><B>ORD</B> = 78<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44102<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = DELMIRA COELHO MACHADO<BR><BR><B>EnderecoLo</B> = R. Bom Jesus, 4048<BR><BR><B>Bairro</B> = Memorare<BR><BR><B>Cep</B> = 64009-230<BR><BR><B>Fone</B> = 3215-7675<BR><BR><B>Diretor</B> = GEOVANIA MARIA RODRIGUES LURA<BR><BR><B>NomeAdjunt</B> = MARIA ELENICE PEREIRA DA SILVA<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = ANA LUCIA  OLIVEIRA DE ANDRADE<BR><BR><B>ID1</B> = 78<BR><BR><B>Geometry_X</B> = 7.43274712609e+005<BR><BR><B>Geometry_Y</B> = 9.44265069992e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station4</styleUrl>
-			<Point>
-				<coordinates>-42.8062093962,-5.0390657973,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[DEPUTADO ANTONIO GAYOSO<BR><BR><B>OBJECTID</B> = 80<BR><BR><B>ORD</B> = 79<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44103<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = DEPUTADO ANTONIO GAYOSO<BR><BR><B>EnderecoLo</B> = R. Rui  Barbosa, 3809<BR><BR><B>Bairro</B> = Matinha<BR><BR><B>Cep</B> = 64002180<BR><BR><B>Fone</B> = 3215-7975<BR><BR><B>Diretor</B> = JOAQUIM JOSE DA CRUZ FILHO<BR><BR><B>NomeAdjunt</B> = JACI MARIA DA CONCEICAO ALVES<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = MARIA DA C VIANA DOS SANTOS<BR><BR><B>ID1</B> = 79<BR><BR><B>Geometry_X</B> = 7.40550625465e+005<BR><BR><B>Geometry_Y</B> = 9.44020127554e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station4</styleUrl>
-			<Point>
-				<coordinates>-42.8306929312,-5.0612912385,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[DOMINGOS AFONSO MAFRENSE<BR><BR><B>OBJECTID</B> = 81<BR><BR><B>ORD</B> = 80<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44104<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = DOMINGOS AFONSO MAFRENSE<BR><BR><B>EnderecoLo</B> = R. Carteiro Pintassilgo, 1032<BR><BR><B>Bairro</B> = Mafrense<BR><BR><B>Cep</B> = 64005-690<BR><BR><B>Fone</B> = 3215-7972<BR><BR><B>Diretor</B> = ELIMAR DE SOUSA DUTRA<BR><BR><B>NomeAdjunt</B> = ABIGAIL SOUSA DO NASCIMENTO  ARAUJO<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = MARIA NAIR SALES DO NASCIMENTO<BR><BR><B>ID1</B> = 80<BR><BR><B>Geometry_X</B> = 7.40475791252e+005<BR><BR><B>Geometry_Y</B> = 9.44239580952e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station4</styleUrl>
-			<Point>
-				<coordinates>-42.8314335352,-5.0414546755,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[IOLANDA RAULINO<BR><BR><B>OBJECTID</B> = 82<BR><BR><B>ORD</B> = 81<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44105<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = IOLANDA RAULINO<BR><BR><B>EnderecoLo</B> = Alameda Domingos Afonso Mafrense,<BR><BR><B>Bairro</B> = Poty Velho<BR><BR><B>Cep</B> = 64004-770<BR><BR><B>Fone</B> = 3215-7970/9997-4654<BR><BR><B>Diretor</B> = VILMA MARIA ELIAS C PEDROSA<BR><BR><B>NomeAdjunt</B> = NEURDIS RODRIGUES P OLIVEIRA<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = ANA MARIA DE OLIVEIRA<BR><BR><B>ID1</B> = 81<BR><BR><B>Geometry_X</B> = 7.40610893923e+005<BR><BR><B>Geometry_Y</B> = 9.44283025047e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station4</styleUrl>
-			<Point>
-				<coordinates>-42.8302286279,-5.0375232192,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[JOSE NELSON DE CARVALHO<BR><BR><B>OBJECTID</B> = 83<BR><BR><B>ORD</B> = 82<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44106<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = JOSE NELSON DE CARVALHO<BR><BR><B>EnderecoLo</B> = R. Basílio A de Carvalho, 1909<BR><BR><B>Bairro</B> = Alvorada<BR><BR><B>Cep</B> = 64004-470<BR><BR><B>Fone</B> = 3215-7973<BR><BR><B>Diretor</B> = MARLI DA PAZ LIMA SOUSA<BR><BR><B>NomeAdjunt</B> = MARCILIA MARIA G DOS SANTOS<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = CLEUDES BENTO DE MIRANDA VIANA<BR><BR><B>ID1</B> = 82<BR><BR><B>Geometry_X</B> = 7.40870116541e+005<BR><BR><B>Geometry_Y</B> = 9.44037762590e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station4</styleUrl>
-			<Point>
-				<coordinates>-42.8278179763,-5.059687359,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[MURILO BRAGA<BR><BR><B>OBJECTID</B> = 84<BR><BR><B>ORD</B> = 83<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44107<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = MURILO BRAGA<BR><BR><B>EnderecoLo</B> = R. Coelho de Resende, 1649<BR><BR><B>Bairro</B> = Marquês de Paranaguá<BR><BR><B>Cep</B> = 64002-470<BR><BR><B>Fone</B> = 3215-7951/3221-3414<BR><BR><B>Diretor</B> = ANTONIO ASSUNCAO RODRIGUES<BR><BR><B>NomeAdjunt</B> = ISABEL M CAMPELO DE ALMEIDA<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = ELIETTE FALCAO XAVIER<BR><BR><B>ID1</B> = 83<BR><BR><B>Geometry_X</B> = 7.42485198520e+005<BR><BR><B>Geometry_Y</B> = 9.43874388922e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station4</styleUrl>
-			<Point>
-				<coordinates>-42.8132081531,-5.0744073269,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[NOVA BRASILIA<BR><BR><B>OBJECTID</B> = 85<BR><BR><B>ORD</B> = 84<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44108<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = NOVA BRASILIA<BR><BR><B>EnderecoLo</B> = R. João Ramalho, 1182<BR><BR><B>Bairro</B> = Nova Brasília<BR><BR><B>Cep</B> = 64004-560<BR><BR><B>Fone</B> = 3215-7980<BR><BR><B>Diretor</B> = MARIA DE FATIMA A NASCIMENTO<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = KATIA MARIA VIEIRA<BR><BR><B>NomeSecret</B> = FRANCISCO GALENO MORAIS DA SILVA<BR><BR><B>ID1</B> = 84<BR><BR><B>Geometry_X</B> = 7.40644338110e+005<BR><BR><B>Geometry_Y</B> = 9.44110063930e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station12</styleUrl>
-			<Point>
-				<coordinates>-42.8298751748,-5.0531580718,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSOR JOSE CARLOS<BR><BR><B>OBJECTID</B> = 86<BR><BR><B>ORD</B> = 85<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44109<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = PROFESSOR JOSE CARLOS<BR><BR><B>EnderecoLo</B> = R. Batalha, 2599<BR><BR><B>Bairro</B> = Aeroporto<BR><BR><B>Cep</B> = 64007-600<BR><BR><B>Fone</B> = 3215-7968<BR><BR><B>Diretor</B> = MARINALVA DA COSTA LEAL<BR><BR><B>NomeAdjunt</B> = MA APARECIDA CERQUEIRA POTY<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = MARIA DE LOURDES DE OLIVEIRA LIMA<BR><BR><B>ID1</B> = 85<BR><BR><B>Geometry_X</B> = 7.42014584056e+005<BR><BR><B>Geometry_Y</B> = 9.44119070182e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station12</styleUrl>
-			<Point>
-				<coordinates>-42.8175250683,-5.0523024453,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[AMBIENTAL 15 DE OUTUBRO<BR><BR><B>OBJECTID</B> = 87<BR><BR><B>ORD</B> = 86<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44110<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = AMBIENTAL 15 DE OUTUBRO<BR><BR><B>EnderecoLo</B> = Av. Duque de Caxias, 3470<BR><BR><B>Bairro</B> = Primavera<BR><BR><B>Cep</B> = 64006-220<BR><BR><B>Fone</B> = 3215-7969<BR><BR><B>Diretor</B> = MARIA DE NAZARE B LOPES<BR><BR><B>NomeAdjunt</B> = NILTON CESAR B DE SOUSA LEAL<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = JOAO DA CRUZ DE OLIVEIRA<BR><BR><B>ID1</B> = 86<BR><BR><B>Geometry_X</B> = 7.42661295692e+005<BR><BR><B>Geometry_Y</B> = 9.44079249983e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station12</styleUrl>
-			<Point>
-				<coordinates>-42.8116828921,-5.0558825406,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[JOAO PAULO I<BR><BR><B>OBJECTID</B> = 103<BR><BR><B>ORD</B> = 102<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44212<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = JOAO PAULO I<BR><BR><B>EnderecoLo</B> = Alegria<BR><BR><B>Bairro</B> = Cantinho Sul<BR><BR><B>Cep</B> = 64039-990<BR><BR><B>Fone</B> = 3215-7671<BR><BR><B>Diretor</B> = SEARA ISABEL AMORIM MARTINS<BR><BR><B>NomeAdjunt</B> = DELMA DE OLIVEIRA BACELAR<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = CASSANDRA MARIA DE ARAUJO LIMA<BR><BR><B>ID1</B> = 102<BR><BR><B>Geometry_X</B> = 7.51514724900e+005<BR><BR><B>Geometry_Y</B> = 9.43156559050e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station26</styleUrl>
-			<Point>
-				<coordinates>-42.7315785865,-5.139014612,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[PROFESSORA ZORAIDE ALMEIDA<BR><BR><B>OBJECTID</B> = 114<BR><BR><B>ORD</B> = 112<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44222<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = PROFESSORA ZORAIDE ALMEIDA<BR><BR><B>EnderecoLo</B> = R. Qd. Conjunto Residencial Dignidade<BR><BR><B>Bairro</B> = Angelim<BR><BR><B>Cep</B> = 64034-400<BR><BR><B>Fone</B> = 3215-7864<BR><BR><B>Diretor</B> = DULCIVAL CONSTANCIO DE M FE<BR><BR><B>NomeAdjunt</B> = FAUSTO FURTUNATO DA ROCHA NETO<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = ANTONIA PIRES DE ABREU<BR><BR><B>ID1</B> = 113<BR><BR><B>Geometry_X</B> = 7.45109630736e+005<BR><BR><B>Geometry_Y</B> = 9.42815905830e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station19</styleUrl>
-			<Point>
-				<coordinates>-42.7892194917,-5.1700118694,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[SANTA MARIA DA CODIPI<BR><BR><B>OBJECTID</B> = 160<BR><BR><B>ORD</B> = 159<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44416<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = SANTA MARIA DA CODIPI<BR><BR><B>EnderecoLo</B> = R. Francisco Magnólia, S/N<BR><BR><B>Bairro</B> = Santa Rosa<BR><BR><B>Cep</B> = 64012-470<BR><BR><B>Fone</B> = 3215-7982<BR><BR><B>Diretor</B> = FRANCINETE DE SOUSA B ARRAIS<BR><BR><B>NomeAdjunt</B> = MARIA JOSE RESENDE SILVA<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = FRANCISCO SALES RODRIGUES<BR><BR><B>ID1</B> = 159<BR><BR><B>Geometry_X</B> = 7.39224484539e+005<BR><BR><B>Geometry_Y</B> = 9.44890278552e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station7</styleUrl>
-			<Point>
-				<coordinates>-42.842907045,-4.9826679372,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[TIA TÂNIA<BR><BR><B>OBJECTID</B> = 179<BR><BR><B>ORD</B> = 178<BR><BR><B>Zona</B> = Norte<BR><BR><B>CodigoLota</B> = 44551<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = TIA TÂNIA<BR><BR><B>EnderecoLo</B> = R. Cristal, 2865<BR><BR><B>Bairro</B> = Real Compagre<BR><BR><B>Cep</B> = 64007-320<BR><BR><B>Fone</B> = 3214-2919 3225-6175/ 3225-5654<BR><BR><B>Diretor</B> = ANTONINA MARTINS LOPES SOUSA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 178<BR><BR><B>Geometry_X</B> = 7.42420000026e+005<BR><BR><B>Geometry_Y</B> = 9.44120300001e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station12</styleUrl>
-			<Point>
-				<coordinates>-42.8138706213,-5.0521789601,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[ANGELIM<BR><BR><B>OBJECTID</B> = 188<BR><BR><B>ORD</B> = 187<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 44600<BR><BR><B>Complement</B> = E.M.<BR><BR><B>NomeLotaca</B> = ANGELIM<BR><BR><B>EnderecoLo</B> = Rua B 1425<BR><BR><B>Bairro</B> = Angelim<BR><BR><B>Cep</B> = 64076410<BR><BR><B>Fone</B> = 3227-7669/3215-7961<BR><BR><B>Diretor</B> = LUCIA GOMES PEREIRA DOS SANTOS<BR><BR><B>NomeAdjunt</B> = KARLA PATRICIA SANTOS GOMES<BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = CLAUDIA DE SOUSA ROCHA<BR><BR><B>ID1</B> = 187<BR><BR><B>Geometry_X</B> = 7.45085669282e+005<BR><BR><B>Geometry_Y</B> = 9.42753667501e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station19</styleUrl>
-			<Point>
-				<coordinates>-42.7894160105,-5.1756388547,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description><![CDATA[RESIDENCIAL BETINHO<BR><BR><B>OBJECTID</B> = 270<BR><BR><B>ORD</B> = 269<BR><BR><B>Zona</B> = Sul<BR><BR><B>CodigoLota</B> = 99206<BR><BR><B>Complement</B> = CMEI<BR><BR><B>NomeLotaca</B> = RESIDENCIAL BETINHO<BR><BR><B>EnderecoLo</B> = Rua Francisco das Chagas Carvalho, 1546<BR><BR><B>Bairro</B> = Angelim<BR><BR><B>Cep</B> = 64034-460<BR><BR><B>Fone</B> = 3220 9522<BR><BR><B>Diretor</B> = ANDREIA MARIA P DA SILVA LIMA<BR><BR><B>NomeAdjunt</B> = <BR><BR><B>NomeVice</B> = <BR><BR><B>NomeSecret</B> = <BR><BR><B>ID1</B> = 269<BR><BR><B>Geometry_X</B> = 7.45514000029e+005<BR><BR><B>Geometry_Y</B> = 9.42879600006e+006<BR><BR><B>ELEVATION</B> = 0]]></description>
-			<styleUrl>#msn_ranger_station19</styleUrl>
-			<Point>
-				<coordinates>-42.7855935103,-5.1642413197,0</coordinates>
 			</Point>
 		</Placemark>
 	</Folder>
