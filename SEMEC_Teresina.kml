@@ -1,0 +1,2552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="points4" id="points4">
+	<SimpleField name="ZID" type="int"></SimpleField>
+	<SimpleField name="ELEV" type="float"></SimpleField>
+	<SimpleField name="ICON" type="int"></SimpleField>
+</Schema>
+<Folder><name>points4</name>
+  <Placemark>
+	<name>ANTONIO TERTO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.788383,-4.879872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BAIXAO DO CARLOS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.747387751789503,-4.966439581451928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CACIMBA VELHA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">2</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.693700828436263,-4.949369449693522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPESTRE NORTE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">3</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739443689621048,-4.88477554233443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CASA MEIO NORTE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">4</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.745304,-5.036488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CEC?LIA MEIRELES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">5</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.775851106983033,-5.072313691744429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CLODOALDO FREITAS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">6</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.785639305792877,-5.022159306549258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CORACAO DE JESUS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">7</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7072437802425,-4.908161724013834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DELFINA BORRALHO BOA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">8</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.774961756814577,-5.009425491264742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9DEOCLECIO CARV</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.635231,-4.938863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10DEPUTADO FRANC</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.752342,-5.04638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     11ELIAS XI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.795086,-5.011065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>R         0 81     1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">2.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.813114,-4.915056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">3.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.759281,-5.049015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">4.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.769017261791291,-4.963613753045247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">5.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.772752768613209,-4.978193341216482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">6.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790017073891029,-4.908540625849478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>O         0 81     1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">7.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.777601449915593,-5.014843111295797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">18.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.766589043343473,-4.928015616782012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MACEDO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">19.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.68464719669327,-5.052343305942611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">20.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.792421666719527,-4.963653301114051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HO              0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">21.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.750181432262167,-4.898955696613877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ASTRO           0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">22.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.759842,-5.049952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">23.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763729,-5.049018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">24.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.730366,-5.045062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IO RANGEL DE FARIAS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.779220511107013,-5.011936655892465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>?RIO FAUSTINO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">25</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.651786251009973,-4.974291395661085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OSSA  SENHORA DO AMP</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">26</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.780648,-5.061798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27NO? FORTES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+		<SimpleData name="ELEV">115.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.746082015636937,-5.046100389209201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28OSCAR CAVALCANTE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.751929965503223,-5.061979906334416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29PADRE ANGELO IMPE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.779985630723253,-5.057300514873032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30PLANALTO INING</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">91</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.733189,-5.055172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31PROFESSOR JOSE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.748135,-5.043906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FILHO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">32.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.78109,-5.004414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L PAULO NUNES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.676375080255333,-4.944699288867323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ORA ALDA RODRIGUES N</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.777678166726332,-5.017102084741106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34RAIMUNDO ADAO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.773797480308751,-5.014246744069302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35RESIDENCIAL PEDR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.738883430046172,-5.073084391855752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36RUBEN LUDWIG</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.641462581037068,-4.985361804898131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37SANTA MARIA DO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.770087443813033,-4.941361408112318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1     38SANTA TERESA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.732819,-4.999444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1     39SAO GERALDO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.729832,-4.964776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1     40SOIM</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.694661309103431,-4.979708427941833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1     41TAPUIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.761248658885663,-5.064569101828032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1     42TEODORO MACH</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.767788,-5.03257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81     43TERESA NOR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.762074,-5.063503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81     44TIO BENTES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.665382,-5.027201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81     45Vereador J</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.783697867008193,-4.917626579484177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81     46Vereador V</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.73835219505817,-5.053625369901883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     47Santa F</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790738355250603,-5.046783796254881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     48Profess</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.760915580857237,-5.005193513138178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     49NO?</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812865656251113,-4.980127180955019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     50San</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812026145736617,-5.055967599818501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     51P</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.837959,-5.051393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>a         0 81     5</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">2.000</SimpleData>
+		<SimpleData name="ICON">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.84959,-4.968522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UBRO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">53.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.826866,-5.070362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ERNANDES         0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.80621,-5.039066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TELO BRANCO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.825802,-4.905678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E MENEZES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.878195150900893,-4.8925291894242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OELHO MACHADO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.830692,-5.061291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RAS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.831432,-5.041455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EIRO SARAIVA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812832,-5.074081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>O ANTONIO GAYOSO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.813557,-5.073066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NGOS AFONSO MAFRENSE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">60</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.823161502932003,-5.039965844975618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E.M. MURILO BRAGA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">61</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.832090754674681,-4.995731987866794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EURIPEDES DE AGUIAR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">62</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.830231,-5.037523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GALILEU VELOSO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">63</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.829950546060417,-5.05316054156214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GOVERNADOR CHAGAS RO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">64</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.817661912729882,-5.052376682534867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65IOLANDA RAULI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.830658,-4.988022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66NOVA BRASILIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.835986284431733,-4.986596992668823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67PROFESSOR JOS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.823059,-5.005715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1     68PROFESSOR JO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.843012860903109,-4.982809953880233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     69PROFE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.840926716318059,-4.991737505865511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DE CARVALHO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">70</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.827649258458671,-5.059655823072002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CERQUEIRA DANTAS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.81847075131865,-5.034128497885041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A MARIA DA CODIPI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">71</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.827884536417017,-5.002751488072675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TA MARIA DAS VASSOUR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">72</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.846532549275118,-4.986750473404207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73Jos? Nelson de Car</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.855743073364877,-4.92910997185443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74E.M. Mocambinho</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.804254874146039,-5.026246732120789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75Clidenor de Fre</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.749767,-5.10534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     76MARIANO A</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.711498,-5.208859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     77Auri</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.721355,-5.095275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     78Moac</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.614389149505442,-5.207853693659558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     79ALT</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.670174,-5.251083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     80AN</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.688832469213537,-5.162423800854752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     81AN</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.738674,-5.093989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     82AN</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.709216271823323,-5.126091036235732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81     83AR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.622725159459861,-5.155027894677744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LVA         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">84.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.633401861390823,-5.112255431353939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARNEIRO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">85.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.730858,-5.092576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">86.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.626372443207252,-5.074597637622065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">87.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.761757,-5.119096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ONSINHOS         0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.749382686206317,-5.104585160705213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>O BORGES         0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.630608,-5.222218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BERTO REIS DA SILVEI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.760277,-5.109889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>90DONA IZABEL PEREIR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739384,-5.09738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91EXTREMA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.655429693983102,-5.092334786041122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>92ITARAR?</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.735354637683358,-5.101700707228281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93LIMOEIRO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.722382,-5.100579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>94LUNALVA COSTA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.675136748880568,-5.232305745714348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95MACHADO DE ASSIS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.771847,-5.109406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>96MANOEL ALVES DE OL</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.736788826503883,-5.113354450838994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>97PROFESSOR JOAO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.731403412106623,-5.106046088146693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RDAO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">98.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763563292042882,-5.115657742182577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">99.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.736889961550197,-5.089975344463847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A LOPES         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">100.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789479190266093,-5.175585617949818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">101.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.78825401921668,-5.129273216570727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carvalho         0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.795952,-5.157457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morais           0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.797861704162507,-5.116244878049086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>na               0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.773951968504313,-5.190110593701836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.787491,-5.146328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 8</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">1.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.77397841794712,-5.172104267529665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>eiro Soares</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.767315,-5.156393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.731611909818817,-5.13888920892317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soares de Carvalho</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.755378406662743,-5.150766439888264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>M HELDER CAMARA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">109</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.810898566510119,-5.115568604354611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THER COUTO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">110</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790447,-5.129213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DOBAL</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">111</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763813,-5.15908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MA DULCE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">112</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.724406401512219,-5.280151920983548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AO PAULO I</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">113</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.762507042459553,-5.19556114530012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RNALISTA JOAO EMILIO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">114</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.801558127163013,-5.13908080507216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1    115JOSE AUTO DE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.783822649271862,-5.113704770536999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1    116LUIS FORTES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.784147275529733,-5.113273158856212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1    117LYSANDRO TIT</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.800167437851329,-5.274666458918353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    118MANOEL</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.78226488987368,-5.112271031085114</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    119MONTEIR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.792949170125759,-5.132140152713505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    120Myriam</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.775020905196818,-5.131879653914189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    121NOSSA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.755739248674963,-5.188937565765002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    122NOSSA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.776592848333273,-5.149388341531437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AL         0 81    1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">23.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.785367061283537,-5.159838316014584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ERPETUO SOCORRO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.788342,-5.156936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ssor Alcides Lebre</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">4</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789169,-5.11469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ofessor Did?cio Silv</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">125</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.764026141159789,-5.193789664118239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6PROFESSOR NELSON  D</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">12</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789219,-5.170012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    127PRO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.778593608853733,-5.186498544443759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    128</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.799380510018374,-5.203289574803725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANDES         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">129.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.758999,-5.178003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>?NGELA REIS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789888216349482,-5.159791399254687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A ANA BUGYJA BRITO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.695720141570781,-5.186580649317655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OFESSORA CRISTINA EV</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">131</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.705791248363333,-5.234710442987227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    132PROFESSORA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.750988872286342,-5.182859954818555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EIRA DA SILVA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790676405304097,-5.092286226034498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ORA ZORAIDE ALMEIDA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.779321020516491,-5.117949930872291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>. N. Monteiro Santan</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">134</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.793879508286551,-5.14708910536674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5RAIMUNDO DE AREA LE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">13</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789450106069779,-5.100794592892331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>136SANTA CLARA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.862515584206193,-5.561319966771334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>137SANTA FE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.798058836669412,-5.286532589818743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>138SAO JOSE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.785070961050337,-5.452403720641489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>139SERAFIM</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.81134436712945,-5.498065129968018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>140VELHO MONGE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.748869077540569,-5.044980916584801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>141Mascarenhas d</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.754227,-5.050131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1    142Monsenhor Ma</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.649952,-4.9781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    143Parque Pi</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.691813398536453,-4.915468489454458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    144Sim?es Fi</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.688468795700288,-5.005109242164053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    145Coronel B</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.752495,-5.066324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    146Piripiri</name>
+      <Point><coordinates>-42.746539438071842,-5.040073368690219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    147Alice Pir</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.760651961144362,-5.062894681384672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    148Dion</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.730266536995963,-5.056151393471425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    149S?o</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.794988414690692,-5.073395438409791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>eite         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">150.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.773698789422447,-5.012756237607007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">151.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.743172458998622,-5.046961833830405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DRA FREITAS CASTELO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.744459567438213,-5.068212838718285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>152ANTONIO ALVES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.733054386124259,-5.048384298387549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    153ARVORES VE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76165,-5.054053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    154BOM SAMARI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739346216733871,-5.058723526768486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    155CIDADE LES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.780601204822062,-5.011173529668196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    156DANIELZINH</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.795491425933577,-5.009653929385724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    157DOM AVELAR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.774486560164711,-5.007782838630131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    158DOM MIGUEL</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.742004,-5.054283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    159DONA MARIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.738449726141589,-5.054320046844048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LVEIRA         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">160.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.759027440585477,-5.047582595669277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">161.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.754228976790607,-5.043070130849393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GUAI           0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">162.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739231624376352,-4.884478702958801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E CALCUT?         0</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">81.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790021035307127,-4.907429145379019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DHI               0</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">81.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.730747,-4.960268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A FREITAS MENDES DE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.77632642142401,-5.061341201712602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1    165MARINA SOARE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.769825445970874,-4.91303605429979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    166NOVA TERES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.765492647033383,-5.056302130578698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    167PARQUE ANI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.751803290921423,-5.046410773324483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    168PARQUE M?O</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.786423,-5.011316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    169Planalto U</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.745924648882429,-5.046575403309116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    170PROF(a). M</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739226562302882,-5.030131935172904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UES DA SILVA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">71</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.776950402451497,-5.080347915675177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARTINS NUNES PORTE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.781536316961443,-5.008085412169574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72SANTA TERESINHA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75178033598452,-5.062350834150863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73S?O VICENTE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.81209866387038,-5.0481621968525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74TAPUIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.808029,-5.076013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75TIA ERINELDA VEIGA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.84343,-4.984349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76TIA SABINA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.821507,-5.041158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>77TIA ZORAIDE ALMEID</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.837906120413798,-5.050202663375164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78VILA BANDEIRANTES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.827732454465917,-5.061448329716132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79VILA DO AVI?O</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.873905,-4.89351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80Prof?. Roseana Mar</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.808426,-5.038365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    181Maria d</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.833753178898171,-5.068370220805027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ar         0 81    1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">82.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.818187624925891,-5.03511984983373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    1</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">83.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.822486140105362,-5.048359984007352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ribeiro da Silva-82</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.743</SimpleData>
+		<SimpleData name="ICON">332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812698,-5.074475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>184Julio C?sar Ara</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">3</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.826851743461027,-4.985281446608648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    1851.? D</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.804221036587698,-5.044941940482508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    186Adela</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.81395,-5.029853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    187AM?LI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.809002,-5.023265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    188ANITA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.821487,-4.994863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    189APOL?</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.808240912502129,-5.051627487623317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    190Dagma</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.834001885764451,-4.98975234216691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    191DALAI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.83557221613998,-4.986500242226623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    192DONA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.832714306201247,-4.994739155587286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    193Z?LIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.82324955352653,-5.004937252344896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    194FRANC</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.830279671306968,-4.982579298930901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    195HELEN</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.841150841377157,-4.991883720240275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CARVALHO         0</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">81.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.836249463264863,-5.060096146957505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>elo Branco         0</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">81.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812339009225099,-5.048396569003416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DE MAGALHAES BRAGA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.823323011807823,-5.035491576523166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UVOR E VIDA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">198</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.832867,-5.06216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>rian II</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">199</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.83805749240566,-5.051748656105398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>cambinho</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">200</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.821924275544731,-5.040082000403248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NTE VERDE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">201</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812493416880699,-5.044269782938336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TUREZA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">202</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.80932767528212,-5.024751368655845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RQUE FIRMINO FILHO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">203</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.833395414990562,-5.052768954535915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RQUE WALL FERRAZ</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">204</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.834692872102181,-5.044615728068658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OFESSORA HILDA MARIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">205</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.813935834339759,-5.052199035068969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    206PRO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.828308,-5.059297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>O DE ARAUJO SOUSA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739368456749077,-5.085589154453903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TA  MARIA DA CODIPI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">207</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.754420365290237,-5.116408672038946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTA MARIA  DAS VASS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">208</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.733539328715231,-5.100807643209321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>209TIA ALICE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.743045976805902,-5.11016570831916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>210TIA ANITA GAYOS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.738216155474142,-5.08955162094264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211TIA CARLOTA MAR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75583544140401,-5.103098863877952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    212TIA HE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.735729,-5.088386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    213TIA JA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.751823,-5.113771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    214TIA KI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.743195,-5.101827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    215TIA LU</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.694691232581391,-5.147211709657947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    216TIA MI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75915121476298,-5.11205167741675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    217TIA M?</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.758039741720943,-5.098639515900573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    218TIA RE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.759703646039171,-5.121703149270664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    219TIA T?</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.770763,-5.106985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    220Vila P</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.725559,-5.101647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    221ALTO D</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75496400094849,-5.120047404989688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    222BERNAR</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.707538654439531,-5.099859048081996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    223CHICO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.709293553742206,-5.117982462181833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    224Cintia</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.736923,-5.113014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    225Claric</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.666241370485018,-5.088900460125034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    226EMERSO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.733185,-5.109665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    227FREI</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.721283,-5.095042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    228GILC</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.758446,-5.109446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    229JO?O</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.687715347591357,-5.153436261530715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ELO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">230.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76216987626777,-5.098927255315239</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">231.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.735481,-5.110487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JESUS         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">232.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.694076598374963,-5.085932495898391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VERDE         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">233.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789864,-5.183584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">234.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.783118095754183,-5.155489131983337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A GUIA         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">235.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.71124457224758,-5.300290638667884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">236.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.751193874052063,-5.185237863299849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>?A             0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">237.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.785967639544587,-5.110974311373955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>I              0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">238.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.794600875005138,-5.157188575001424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SSAROS         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">239.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.778237940921613,-5.15996641552169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RMINO FILHO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.786423757066991,-5.129921189385308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ORA??O DE JESUS</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.786386486236403,-5.168877610663257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EBASTI?O</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790425397036998,-5.141308229994867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>INHA DE JESUS E SILV</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">2</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.796662735591468,-5.102431261800712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3TIA EUT?LIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">24</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.774313622311617,-5.190629920775608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4TIO FERNANDO SANTIA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">24</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.786248298788003,-5.141385871950122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45VILA MARIANA FORTE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.777039011261522,-5.17450472926212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46VILA POTY II</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.774995324346179,-5.138192483859116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47?RICO VER?SSIMO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.779532548025458,-5.143430355522643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48ANGELIM IV</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.788452,-5.116882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49BOM JESUS/ WALL FE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">1</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.747502873140988,-5.140835911232377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>250CHAPADINHA SUL</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.806383950367348,-5.229353890130017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>251CHICO  MENDES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790784664077897,-5.115460826163316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>252CIRANDINHA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.754421184450742,-5.15077628424213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>253C?SSIA CRISTINA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.783889968713623,-5.113340881192365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>254ENILSON CARVALHO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.78036116161006,-5.118581030461717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>255FIRMINO FILHO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76472566905899,-5.159352915385555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>256FRANCISCA DE SOU</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.79966,-5.130029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    257HERCILIA T</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.803319839877091,-5.106611646214949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    258IMAC</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.792023144509841,-5.118556766523148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    259IRM?</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.782214442692407,-5.138042468155333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    260JESU</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.798679445803117,-5.277067285293666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    261JO?O</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790314,-5.092255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ES IBIAPINA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.766376,-5.157448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AGA PIRES</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.794755770780398,-5.147706305593612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>-820.6763</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">323668336.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.783970855920138,-5.14961444169181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARCOS VILA?A</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">264</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.785508627962962,-5.164056191742589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARIA ALVES DA SILVA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">265</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763562947007017,-5.193716297173919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>266MARIANA DA SIL</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.78288109894828,-5.192968728439845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    267MIRIAN FURT</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.788837426155318,-5.155725031731126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    268MONSENHOR C</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763679073394087,-5.195950247651032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    269NOSSA SENHO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763231110011553,-5.176344817389628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    270NOSSA SENHO</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.772936736305418,-5.159655099037608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    271</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789471,-5.175058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    272</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.787003,-5.160992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    273</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.808060953263627,-5.119242050309299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    274</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790345524435303,-5.095543095545233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ilva         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">275.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.813732,-5.112438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SCO DAS CHAGAS VEN?N</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.792068,-5.153533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>276PROFESSOR WALL FE</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.792040617104263,-5.155984885849725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>277PROFESSORA ANTON</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">81</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.777771,-5.129709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    278PROFESSORA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.770195,-5.145376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81    279PROFESSORA</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75703093941749,-5.154611636100511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    280</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.782621322753322,-5.154099319455625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    281</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.813885,-5.073917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81    282</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">0.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812902085422593,-5.087369357893776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A         0 81    28</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">3.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.816711642771722,-5.086562542531464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CARDOSO         0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">284.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.813052741462911,-5.08467866515781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 81</name>
+	<ExtendedData><SchemaData schemaUrl="#points4">
+		<SimpleData name="ZID">0</SimpleData>
+		<SimpleData name="ELEV">285.000</SimpleData>
+		<SimpleData name="ICON">0</SimpleData>
+	</SchemaData></ExtendedData>
+  </Placemark>
+</Folder>
+</Document></kml>
