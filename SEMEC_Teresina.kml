@@ -2505,40 +2505,5 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-42.782621322753322,-5.154099319455625</coordinates></Point>
   </Placemark>
-  <Placemark>
-	<name>0 81    281</name>
-	<ExtendedData><SchemaData schemaUrl="#points4">
-		<SimpleData name="ELEV">0.000</SimpleData>
-		<SimpleData name="ICON">0</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-42.813885,-5.073917</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>0 81    282</name>
-	<ExtendedData><SchemaData schemaUrl="#points4">
-		<SimpleData name="ZID">0</SimpleData>
-		<SimpleData name="ELEV">0.000</SimpleData>
-		<SimpleData name="ICON">0</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-42.812902085422593,-5.087369357893776</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>A         0 81    28</name>
-	<ExtendedData><SchemaData schemaUrl="#points4">
-		<SimpleData name="ZID">0</SimpleData>
-		<SimpleData name="ELEV">3.000</SimpleData>
-		<SimpleData name="ICON">0</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-42.816711642771722,-5.086562542531464</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<name>CARDOSO         0 81</name>
-	<ExtendedData><SchemaData schemaUrl="#points4">
-		<SimpleData name="ZID">0</SimpleData>
-		<SimpleData name="ELEV">284.000</SimpleData>
-		<SimpleData name="ICON">0</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-42.813052741462911,-5.08467866515781</coordinates></Point>
-  </Placemark>
 </Folder>
 </Document></kml>
