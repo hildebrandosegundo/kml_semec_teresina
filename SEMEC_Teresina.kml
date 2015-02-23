@@ -2540,13 +2540,5 @@
 	</SchemaData></ExtendedData>
       <Point><coordinates>-42.813052741462911,-5.08467866515781</coordinates></Point>
   </Placemark>
-  <Placemark>
-	<name>0 81</name>
-	<ExtendedData><SchemaData schemaUrl="#points4">
-		<SimpleData name="ZID">0</SimpleData>
-		<SimpleData name="ELEV">285.000</SimpleData>
-		<SimpleData name="ICON">0</SimpleData>
-	</SchemaData></ExtendedData>
-  </Placemark>
 </Folder>
 </Document></kml>
