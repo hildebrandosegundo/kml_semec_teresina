@@ -1,0 +1,2970 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="coordenadas_bairros" id="coordenadas_bairros">
+	<SimpleField name="Latitude" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="string"></SimpleField>
+</Schema>
+<Folder><name>coordenadas_bairros</name>
+  <Placemark>
+	<name>ANGÉLICA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.206643</SimpleData>
+		<SimpleData name="Longitude">-42.76162</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76162,-5.206643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ESPLANADA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.192501</SimpleData>
+		<SimpleData name="Longitude">-42.754465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.754465,-5.192501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANGELIM</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.17908</SimpleData>
+		<SimpleData name="Longitude">-42.77971</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.77971,-5.17908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE JULIANA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.169639</SimpleData>
+		<SimpleData name="Longitude">-42.754572</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.754572,-5.169639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AREIAS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.15875</SimpleData>
+		<SimpleData name="Longitude">-42.796075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.796075,-5.15875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PROMORAR</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.147891</SimpleData>
+		<SimpleData name="Longitude">-42.784764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.784764,-5.147891</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTO ANT?NIO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.155684</SimpleData>
+		<SimpleData name="Longitude">-42.771938</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.771938,-5.155684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DISTRITO INDUSTRIAL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.147838</SimpleData>
+		<SimpleData name="Longitude">-42.798223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.798223,-5.147838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE PIAUÍ</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.143231</SimpleData>
+		<SimpleData name="Longitude">-42.787794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.787794,-5.143231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SACI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.13819</SimpleData>
+		<SimpleData name="Longitude">-42.802117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.802117,-5.13819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE SUL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.146712</SimpleData>
+		<SimpleData name="Longitude">-42.752325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.752325,-5.146712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA LUZIA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.131938</SimpleData>
+		<SimpleData name="Longitude">-42.808564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.808564,-5.131938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE SÃO JOÃO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.131058</SimpleData>
+		<SimpleData name="Longitude">-42.80055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.80055,-5.131058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRIUNFO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.127559</SimpleData>
+		<SimpleData name="Longitude">-42.795582</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.795582,-5.127559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORADA NOVA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.124125</SimpleData>
+		<SimpleData name="Longitude">-42.788932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.788932,-5.124125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TABULETA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.123401</SimpleData>
+		<SimpleData name="Longitude">-42.803404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.803404,-5.123401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REDONDA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.121129</SimpleData>
+		<SimpleData name="Longitude">-42.746204</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.746204,-5.121129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EXTREMA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.12105</SimpleData>
+		<SimpleData name="Longitude">-42.7566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7566,-5.12105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CATARINA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.122157</SimpleData>
+		<SimpleData name="Longitude">-42.778673</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.778673,-5.122157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COMPRIDA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.117994</SimpleData>
+		<SimpleData name="Longitude">-42.765857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.765857,-5.117994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São PEDRO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.117358</SimpleData>
+		<SimpleData name="Longitude">-42.809214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.809214,-5.117358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIO XII</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.114966</SimpleData>
+		<SimpleData name="Longitude">-42.802744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.802744,-5.114966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BEIRA RIO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.109329</SimpleData>
+		<SimpleData name="Longitude">-42.773617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.773617,-5.109329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VERDECAP</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.110134</SimpleData>
+		<SimpleData name="Longitude">-42.704529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.704529,-5.110134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIDADE NOVA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.108966</SimpleData>
+		<SimpleData name="Longitude">-42.789124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.789124,-5.108966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVO HORIZONTE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.111568</SimpleData>
+		<SimpleData name="Longitude">-42.745868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.745868,-5.111568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MACA?BA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.109562</SimpleData>
+		<SimpleData name="Longitude">-42.801072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.801072,-5.109562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VERMELHA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.105464</SimpleData>
+		<SimpleData name="Longitude">-42.810151</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.810151,-5.105464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTE CASTELO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.105594</SimpleData>
+		<SimpleData name="Longitude">-42.7959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7959,-5.105594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO SEBASTIÃO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.107509</SimpleData>
+		<SimpleData name="Longitude">-42.728174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.728174,-5.107509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOSSA Sra. DAS GRA?AS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.100274</SimpleData>
+		<SimpleData name="Longitude">-42.804226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.804226,-5.100274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CRISTO REI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.100147</SimpleData>
+		<SimpleData name="Longitude">-42.78698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.78698,-5.100147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITARARÉ</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.104043</SimpleData>
+		<SimpleData name="Longitude">-42.758201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.758201,-5.104043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE IDEAL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.09941</SimpleData>
+		<SimpleData name="Longitude">-42.748446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.748446,-5.09941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COLORADO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.095614</SimpleData>
+		<SimpleData name="Longitude">-42.735094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.735094,-5.095614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FLOR DO CAMPO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.100319</SimpleData>
+		<SimpleData name="Longitude">-42.70968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.70968,-5.100319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIÇARRA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.094428</SimpleData>
+		<SimpleData name="Longitude">-42.798201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.798201,-5.094428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ILHOTAS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.091788</SimpleData>
+		<SimpleData name="Longitude">-42.790455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.790455,-5.091788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FREI SERAFIM</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.086568</SimpleData>
+		<SimpleData name="Longitude">-42.797257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.797257,-5.086568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LIVRAMENTO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.088967</SimpleData>
+		<SimpleData name="Longitude">-42.755077</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.755077,-5.088967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CENTRO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.088792</SimpleData>
+		<SimpleData name="Longitude">-42.81236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.81236,-5.088792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RECANTO DAS PALMEIRAS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.083605</SimpleData>
+		<SimpleData name="Longitude">-42.757468</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.757468,-5.083605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CABRAL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.081743</SimpleData>
+		<SimpleData name="Longitude">-42.800942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.800942,-5.081743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MATINHA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.080653</SimpleData>
+		<SimpleData name="Longitude">-42.824353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.824353,-5.080653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAFUÁ</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.078356</SimpleData>
+		<SimpleData name="Longitude">-42.816035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.816035,-5.078356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TODOS OS SANTOS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.095508</SimpleData>
+		<SimpleData name="Longitude">-42.719582</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.719582,-5.095508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JÓQUEI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.076571</SimpleData>
+		<SimpleData name="Longitude">-42.788744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.788744,-5.076571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIRAJÁ</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.074577</SimpleData>
+		<SimpleData name="Longitude">-42.824623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.824623,-5.074577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São CRIST?VÃO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.077552</SimpleData>
+		<SimpleData name="Longitude">-42.773915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.773915,-5.077552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA ISABEL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.075075</SimpleData>
+		<SimpleData name="Longitude">-42.756251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.756251,-5.075075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARQUÊS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.076117</SimpleData>
+		<SimpleData name="Longitude">-42.811573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.811573,-5.076117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ACARAPE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.071046</SimpleData>
+		<SimpleData name="Longitude">-42.829589</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.829589,-5.071046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORRO DA  ESPERANÇA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.071863</SimpleData>
+		<SimpleData name="Longitude">-42.806994</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.806994,-5.071863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FÁTIMA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.068208</SimpleData>
+		<SimpleData name="Longitude">-42.792993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.792993,-5.068208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA LIA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.062289</SimpleData>
+		<SimpleData name="Longitude">-42.754101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.754101,-5.062289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRIMAVERA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0638</SimpleData>
+		<SimpleData name="Longitude">-42.811331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.811331,-5.0638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOAQUIM</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.055807</SimpleData>
+		<SimpleData name="Longitude">-42.835253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.835253,-5.055807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AEROPORTO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.059949</SimpleData>
+		<SimpleData name="Longitude">-42.821375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.821375,-5.059949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REAL COPAGRE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.053167</SimpleData>
+		<SimpleData name="Longitude">-42.81622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.81622,-5.053167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVO URUGUAI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.052393</SimpleData>
+		<SimpleData name="Longitude">-42.723577</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.723577,-5.052393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ITAPERU</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.048517</SimpleData>
+		<SimpleData name="Longitude">-42.821725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.821725,-5.048517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ININGA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.055233</SimpleData>
+		<SimpleData name="Longitude">-42.79278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.79278,-5.055233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOVA BRASÍLIA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.051007</SimpleData>
+		<SimpleData name="Longitude">-42.828762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.828762,-5.051007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MEMORARE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.045452</SimpleData>
+		<SimpleData name="Longitude">-42.816474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.816474,-5.045452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÁGUA MINERAL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.045711</SimpleData>
+		<SimpleData name="Longitude">-42.807726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.807726,-5.045711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAFRENSE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.044093</SimpleData>
+		<SimpleData name="Longitude">-42.831595</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.831595,-5.044093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTO DO CENTRO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.042393</SimpleData>
+		<SimpleData name="Longitude">-42.755416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.755416,-5.042393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÁRVORES VERDES</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.038086</SimpleData>
+		<SimpleData name="Longitude">-42.726417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.726417,-5.038086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>OLARIAS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.04141</SimpleData>
+		<SimpleData name="Longitude">-42.837088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.837088,-5.04141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POTI VELHO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.037147</SimpleData>
+		<SimpleData name="Longitude">-42.829177</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.829177,-5.037147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALTO ALEGRE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.040096</SimpleData>
+		<SimpleData name="Longitude">-42.823704</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.823704,-5.040096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BUENOS AIRES</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.037701</SimpleData>
+		<SimpleData name="Longitude">-42.808978</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.808978,-5.037701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VILA SÃO FRANCISCO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.032769</SimpleData>
+		<SimpleData name="Longitude">-42.821514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.821514,-5.032769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EMBRAPA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.033619</SimpleData>
+		<SimpleData name="Longitude">-42.794098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.794098,-5.033619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VALE DO GAVIÃO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.029003</SimpleData>
+		<SimpleData name="Longitude">-42.740848</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.740848,-5.029003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MOCAMBINHO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.026379</SimpleData>
+		<SimpleData name="Longitude">-42.812305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812305,-5.026379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VALE QUEM TEM</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.048724</SimpleData>
+		<SimpleData name="Longitude">-42.738236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.738236,-5.048724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RENASCENÇA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.100099</SimpleData>
+		<SimpleData name="Longitude">-42.741063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.741063,-5.100099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE POTI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.110022</SimpleData>
+		<SimpleData name="Longitude">-42.737655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.737655,-5.110022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO RAIMUNDO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.102616</SimpleData>
+		<SimpleData name="Longitude">-42.772139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.772139,-5.102616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOM PRINCIPIO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.120028</SimpleData>
+		<SimpleData name="Longitude">-42.701726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.701726,-5.120028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MATADOURO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.065125</SimpleData>
+		<SimpleData name="Longitude">-42.832539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.832539,-5.065125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE ALVORADA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.060642</SimpleData>
+		<SimpleData name="Longitude">-42.827915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.827915,-5.060642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VILA OPERÁRIA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.074896</SimpleData>
+		<SimpleData name="Longitude">-42.818454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.818454,-5.074896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORENQUANTO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.075272</SimpleData>
+		<SimpleData name="Longitude">-42.804301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.804301,-5.075272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOURIVAL PARENTE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.133355</SimpleData>
+		<SimpleData name="Longitude">-42.786261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.786261,-5.133355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TRÊS ANDARES</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.113875</SimpleData>
+		<SimpleData name="Longitude">-42.784796</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.784796,-5.113875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA CRUZ</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.157676</SimpleData>
+		<SimpleData name="Longitude">-42.785123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.785123,-5.157676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BELA VISTA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.133998</SimpleData>
+		<SimpleData name="Longitude">-42.772157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.772157,-5.133998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO LOURENÇO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.141998</SimpleData>
+		<SimpleData name="Longitude">-42.759598</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.759598,-5.141998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRASILAR</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.180373</SimpleData>
+		<SimpleData name="Longitude">-42.756331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.756331,-5.180373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE JACINTA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.173448</SimpleData>
+		<SimpleData name="Longitude">-42.763542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763542,-5.173448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEDRA MIÚDA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.20548</SimpleData>
+		<SimpleData name="Longitude">-42.744213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.744213,-5.20548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PORTAL DA ALEGRIA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.193414</SimpleData>
+		<SimpleData name="Longitude">-42.741876</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.741876,-5.193414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>REDENÇÃO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.118712</SimpleData>
+		<SimpleData name="Longitude">-42.793231</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.793231,-5.118712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TANQUEDO NEVES</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.113356</SimpleData>
+		<SimpleData name="Longitude">-42.770881</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.770881,-5.113356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GURUPI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.084938</SimpleData>
+		<SimpleData name="Longitude">-42.739565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739565,-5.084938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SÃO JOÃO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.087626</SimpleData>
+		<SimpleData name="Longitude">-42.770584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.770584,-5.087626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NOIVOS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.084622</SimpleData>
+		<SimpleData name="Longitude">-42.784721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.784721,-5.084622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HORTO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.06582</SimpleData>
+		<SimpleData name="Longitude">-42.77691</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.77691,-5.06582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORADA DO SOL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.069707</SimpleData>
+		<SimpleData name="Longitude">-42.76584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76584,-5.069707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>URUGUAI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.066011</SimpleData>
+		<SimpleData name="Longitude">-42.739526</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.739526,-5.066011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAMAPI</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.054596</SimpleData>
+		<SimpleData name="Longitude">-42.759604</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.759604,-5.054596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SATÉLITE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.04872</SimpleData>
+		<SimpleData name="Longitude">-42.757616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.757616,-5.04872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MORROS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.02968</SimpleData>
+		<SimpleData name="Longitude">-42.757541</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.757541,-5.02968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SOCOPO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.020115</SimpleData>
+		<SimpleData name="Longitude">-42.76874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76874,-5.020115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA ROSA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.024339</SimpleData>
+		<SimpleData name="Longitude">-42.83274</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.83274,-5.024339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VERDE LAR</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.041019</SimpleData>
+		<SimpleData name="Longitude">-42.732667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.732667,-5.041019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PLANALTO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.058032</SimpleData>
+		<SimpleData name="Longitude">-42.775771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.775771,-5.058032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PIÇARREIRA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.060781</SimpleData>
+		<SimpleData name="Longitude">-42.763001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763001,-5.060781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAMPESTRE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.067435</SimpleData>
+		<SimpleData name="Longitude">-42.755339</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.755339,-5.067435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOM JESUS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.039365</SimpleData>
+		<SimpleData name="Longitude">-42.816212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.816212,-5.039365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PEDRA MOLE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.016759</SimpleData>
+		<SimpleData name="Longitude">-42.781483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.781483,-5.016759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ZOOBOTÂNICO</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.039264</SimpleData>
+		<SimpleData name="Longitude">-42.775285</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.775285,-5.039264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TABAJARAS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.00513</SimpleData>
+		<SimpleData name="Longitude">-42.761198</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.761198,-5.00513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CIDADE JARDIM</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.022274</SimpleData>
+		<SimpleData name="Longitude">-42.774567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.774567,-5.022274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PARQUE BRASIL</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.006578</SimpleData>
+		<SimpleData name="Longitude">-42.836027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.836027,-5.006578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SANTA MARIA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.988572</SimpleData>
+		<SimpleData name="Longitude">-42.834062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.834062,-4.988572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHAPADINHA</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.972005</SimpleData>
+		<SimpleData name="Longitude">-42.833693</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.833693,-4.972005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JACINTA ANDRADE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.985622</SimpleData>
+		<SimpleData name="Longitude">-42.812878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812878,-4.985622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ALEGRE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.006062</SimpleData>
+		<SimpleData name="Longitude">-42.811364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.811364,-5.006062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AROEIRAS</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0091</SimpleData>
+		<SimpleData name="Longitude">-42.794156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.794156,-5.0091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MONTE VERDE</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.992286</SimpleData>
+		<SimpleData name="Longitude">-42.819883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.819883,-4.992286</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bom Sucesso</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.272417</SimpleData>
+		<SimpleData name="Longitude">-42.79175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.79175,-5.272417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salobro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.229267</SimpleData>
+		<SimpleData name="Longitude">-42.805967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.805967,-5.229267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pq Eliane</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.19335</SimpleData>
+		<SimpleData name="Longitude">-42.7911</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7911,-5.19335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assentamento 17 de Abril</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.299533</SimpleData>
+		<SimpleData name="Longitude">-42.740433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.740433,-5.299533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pv. Cebola</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.239917</SimpleData>
+		<SimpleData name="Longitude">-42.7028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7028,-5.239917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Junco Km 16</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.239917</SimpleData>
+		<SimpleData name="Longitude">-42.7028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7028,-5.239917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cipó Enrolado</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.267383</SimpleData>
+		<SimpleData name="Longitude">-42.727483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.727483,-5.267383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loteamento Chapadinha Sul</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.301667</SimpleData>
+		<SimpleData name="Longitude">-42.7146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7146,-5.301667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Humaitá</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.173</SimpleData>
+		<SimpleData name="Longitude">-42.710583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.710583,-5.173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Torrões</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.175633</SimpleData>
+		<SimpleData name="Longitude">-42.719583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.719583,-5.175633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pv. Alegria</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.13905</SimpleData>
+		<SimpleData name="Longitude">-42.7316</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7316,-5.13905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Sta Cruz</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.150067</SimpleData>
+		<SimpleData name="Longitude">-42.734333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.734333,-5.150067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Recanto dos Pássaros</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.170317</SimpleData>
+		<SimpleData name="Longitude">-42.720117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.720117,-5.170317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cantinho do Sul</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.190883</SimpleData>
+		<SimpleData name="Longitude">-42.697017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.697017,-5.190883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Lorenzo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.128367</SimpleData>
+		<SimpleData name="Longitude">-42.76005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76005,-5.128367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cerâmica Sta Luzia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.134867</SimpleData>
+		<SimpleData name="Longitude">-42.738433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.738433,-5.134867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Verde Cap III</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.14715</SimpleData>
+		<SimpleData name="Longitude">-42.694567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.694567,-5.14715</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sangrador</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.13705</SimpleData>
+		<SimpleData name="Longitude">-42.69805</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.69805,-5.13705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Europa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.154683</SimpleData>
+		<SimpleData name="Longitude">-42.687083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.687083,-5.154683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim América</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.161083</SimpleData>
+		<SimpleData name="Longitude">-42.6887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6887,-5.161083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Usina Santana</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.162517</SimpleData>
+		<SimpleData name="Longitude">-42.688883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.688883,-5.162517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taboca</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.088933</SimpleData>
+		<SimpleData name="Longitude">-42.666383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.666383,-5.088933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jordânia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.088667</SimpleData>
+		<SimpleData name="Longitude">-42.642883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.642883,-5.088667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cocal</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.099383</SimpleData>
+		<SimpleData name="Longitude">-42.591267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.591267,-5.099383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Pedro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.1064</SimpleData>
+		<SimpleData name="Longitude">-42.587217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.587217,-5.1064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tinguí</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.130133</SimpleData>
+		<SimpleData name="Longitude">-42.5735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5735,-5.130133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mucuim</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0689</SimpleData>
+		<SimpleData name="Longitude">-42.608167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.608167,-5.0689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alegria</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.069883</SimpleData>
+		<SimpleData name="Longitude">-42.60945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.60945,-5.069883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atalaia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.085967</SimpleData>
+		<SimpleData name="Longitude">-42.624883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.624883,-5.085967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Joaquim</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.099917</SimpleData>
+		<SimpleData name="Longitude">-42.628533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.628533,-5.099917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Félix</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.11045</SimpleData>
+		<SimpleData name="Longitude">-42.622683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.622683,-5.11045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PSH Taboca</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.085733</SimpleData>
+		<SimpleData name="Longitude">-42.694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.694,-5.085733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila Taboca</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.09035</SimpleData>
+		<SimpleData name="Longitude">-42.678433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.678433,-5.09035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pv. São Matheus</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.094317</SimpleData>
+		<SimpleData name="Longitude">-42.6484</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6484,-5.094317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pv. Pau de Cinza</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0881</SimpleData>
+		<SimpleData name="Longitude">-42.6415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6415,-5.0881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ladeira</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.08465</SimpleData>
+		<SimpleData name="Longitude">-42.6707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6707,-5.08465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pv. Pilões</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.498</SimpleData>
+		<SimpleData name="Longitude">-42.811117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.811117,-5.498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alto Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.50405</SimpleData>
+		<SimpleData name="Longitude">-42.812917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812917,-5.50405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caro Custou</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.511133</SimpleData>
+		<SimpleData name="Longitude">-42.8009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.8009,-5.511133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terra Nova</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.492633</SimpleData>
+		<SimpleData name="Longitude">-42.80905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.80905,-5.492633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Rosa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.480883</SimpleData>
+		<SimpleData name="Longitude">-42.800367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.800367,-5.480883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cerâmica Cil</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.286233</SimpleData>
+		<SimpleData name="Longitude">-42.798117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.798117,-5.286233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bom Sossego</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.274083</SimpleData>
+		<SimpleData name="Longitude">-42.794733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.794733,-5.274083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Passagem da Serra</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.461617</SimpleData>
+		<SimpleData name="Longitude">-42.776683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.776683,-5.461617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baixa Bonita</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.46635</SimpleData>
+		<SimpleData name="Longitude">-42.7647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7647,-5.46635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Angelim</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.544367</SimpleData>
+		<SimpleData name="Longitude">-42.840667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.840667,-5.544367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baixão Grande</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.528833</SimpleData>
+		<SimpleData name="Longitude">-42.821217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.821217,-5.528833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pilões</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.504017</SimpleData>
+		<SimpleData name="Longitude">-42.812933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.812933,-5.504017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barreiros</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.457783</SimpleData>
+		<SimpleData name="Longitude">-42.78295</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.78295,-5.457783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Passagem da Terra</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.461617</SimpleData>
+		<SimpleData name="Longitude">-42.77665</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.77665,-5.461617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajueiro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.454867</SimpleData>
+		<SimpleData name="Longitude">-42.784717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.784717,-5.454867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa Nova</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.571083</SimpleData>
+		<SimpleData name="Longitude">-42.797717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.797717,-5.571083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Criuly</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.591233</SimpleData>
+		<SimpleData name="Longitude">-42.8226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.8226,-5.591233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazendinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.586867</SimpleData>
+		<SimpleData name="Longitude">-42.824667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.824667,-5.586867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mimoso</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.571483</SimpleData>
+		<SimpleData name="Longitude">-42.855217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.855217,-5.571483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gado Manso</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.572283</SimpleData>
+		<SimpleData name="Longitude">-42.871233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.871233,-5.572283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gado Bravo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.579367</SimpleData>
+		<SimpleData name="Longitude">-42.88825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.88825,-5.579367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cruzes</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.560117</SimpleData>
+		<SimpleData name="Longitude">-42.902917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.902917,-5.560117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sobrado</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.55995</SimpleData>
+		<SimpleData name="Longitude">-42.923767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.923767,-5.55995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Francisco</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.568233</SimpleData>
+		<SimpleData name="Longitude">-42.94085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.94085,-5.568233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vista Bonita</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.53765</SimpleData>
+		<SimpleData name="Longitude">-42.908</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.908,-5.53765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alto Bonito</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.530733</SimpleData>
+		<SimpleData name="Longitude">-42.904067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.904067,-5.530733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa do Barro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.517933</SimpleData>
+		<SimpleData name="Longitude">-42.905633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.905633,-5.517933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olho d'água</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.500167</SimpleData>
+		<SimpleData name="Longitude">-42.938867</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.938867,-5.500167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abóbora</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.53175</SimpleData>
+		<SimpleData name="Longitude">-42.846133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.846133,-5.53175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baixão de Areia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.4774</SimpleData>
+		<SimpleData name="Longitude">-42.86755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.86755,-5.4774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saco</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.433283</SimpleData>
+		<SimpleData name="Longitude">-42.874183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.874183,-5.433283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa Seca</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.453283</SimpleData>
+		<SimpleData name="Longitude">-42.883733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.883733,-5.453283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povoado Siri</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.902267</SimpleData>
+		<SimpleData name="Longitude">-42.698483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.698483,-4.902267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morada Nova</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.889067</SimpleData>
+		<SimpleData name="Longitude">-42.69205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.69205,-4.889067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajaíba</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.919333</SimpleData>
+		<SimpleData name="Longitude">-42.711683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.711683,-4.919333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Angolá</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.218867</SimpleData>
+		<SimpleData name="Longitude">-42.708183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.708183,-5.218867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Porção</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.209367</SimpleData>
+		<SimpleData name="Longitude">-42.70675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.70675,-5.209367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barreiros dos Maviquinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.24685</SimpleData>
+		<SimpleData name="Longitude">-42.62965</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.62965,-5.24685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barreiros do Henrique</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.2587</SimpleData>
+		<SimpleData name="Longitude">-42.640617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.640617,-5.2587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caiçara</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.207883</SimpleData>
+		<SimpleData name="Longitude">-42.636217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.636217,-5.207883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morro Sobrado</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.187083</SimpleData>
+		<SimpleData name="Longitude">-42.639733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.639733,-5.187083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assentamento Limoeiro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.189967</SimpleData>
+		<SimpleData name="Longitude">-42.629517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.629517,-5.189967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sardinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.198333</SimpleData>
+		<SimpleData name="Longitude">-42.604067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.604067,-5.198333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa Dantas</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.1985</SimpleData>
+		<SimpleData name="Longitude">-42.616133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.616133,-5.1985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Floresta</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.191533</SimpleData>
+		<SimpleData name="Longitude">-42.603017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.603017,-5.191533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Retiro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.176667</SimpleData>
+		<SimpleData name="Longitude">-42.582583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.582583,-5.176667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povoado Centro dos Anfonsinhos</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.155033</SimpleData>
+		<SimpleData name="Longitude">-42.622633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.622633,-5.155033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro Ivo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.14375</SimpleData>
+		<SimpleData name="Longitude">-42.617233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.617233,-5.14375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Vale da Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.134833</SimpleData>
+		<SimpleData name="Longitude">-42.621317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.621317,-5.134833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morro Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.160683</SimpleData>
+		<SimpleData name="Longitude">-42.61785</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.61785,-5.160683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Morro Alegre</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.169267</SimpleData>
+		<SimpleData name="Longitude">-42.613467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.613467,-5.169267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chapada</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.177067</SimpleData>
+		<SimpleData name="Longitude">-42.61205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.61205,-5.177067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa dos Anfonsinhos</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.163317</SimpleData>
+		<SimpleData name="Longitude">-42.63685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.63685,-5.163317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mangueira</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.155933</SimpleData>
+		<SimpleData name="Longitude">-42.647767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.647767,-5.155933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.168133</SimpleData>
+		<SimpleData name="Longitude">-42.6375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6375,-5.168133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Isabel</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.168133</SimpleData>
+		<SimpleData name="Longitude">-42.6375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6375,-5.168133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Acampamento Terra Nossa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.117</SimpleData>
+		<SimpleData name="Longitude">-42.639667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.639667,-5.117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Terra da Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.131267</SimpleData>
+		<SimpleData name="Longitude">-42.624583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.624583,-5.131267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Santana</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.149867</SimpleData>
+		<SimpleData name="Longitude">-42.675183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.675183,-5.149867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nossa Vitória</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.180083</SimpleData>
+		<SimpleData name="Longitude">-42.676767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.676767,-5.180083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loteamento Santana</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.161167</SimpleData>
+		<SimpleData name="Longitude">-42.6831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6831,-5.161167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vl. Maria Luiza</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.158583</SimpleData>
+		<SimpleData name="Longitude">-42.679483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.679483,-5.158583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Nossa Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.152783</SimpleData>
+		<SimpleData name="Longitude">-42.6752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6752,-5.152783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santana</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.162533</SimpleData>
+		<SimpleData name="Longitude">-42.688917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.688917,-5.162533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povoado Elisa Romaro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.924733</SimpleData>
+		<SimpleData name="Longitude">-42.852667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.852667,-4.924733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povoado Esperança</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.914867</SimpleData>
+		<SimpleData name="Longitude">-42.83725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.83725,-4.914867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajazeiras</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.912317</SimpleData>
+		<SimpleData name="Longitude">-42.83255</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.83255,-4.912317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povoado Bela Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.928883</SimpleData>
+		<SimpleData name="Longitude">-42.856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.856,-4.928883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Domingos</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.926633</SimpleData>
+		<SimpleData name="Longitude">-42.865767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.865767,-4.926633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mata Pastos</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9072</SimpleData>
+		<SimpleData name="Longitude">-42.875717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.875717,-4.9072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mimosa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.935217</SimpleData>
+		<SimpleData name="Longitude">-42.846117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.846117,-4.935217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Viva Deus</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.960067</SimpleData>
+		<SimpleData name="Longitude">-42.847033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.847033,-4.960067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chapadinha Norte</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9664</SimpleData>
+		<SimpleData name="Longitude">-42.85035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.85035,-4.9664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tamboril</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.903633</SimpleData>
+		<SimpleData name="Longitude">-42.8191</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.8191,-4.903633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tapuia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.955917</SimpleData>
+		<SimpleData name="Longitude">-42.7309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7309,-4.955917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São José</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.950283</SimpleData>
+		<SimpleData name="Longitude">-42.72845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.72845,-4.950283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Bom Sossego</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9441</SimpleData>
+		<SimpleData name="Longitude">-42.72715</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.72715,-4.9441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assent. Tapuia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.929983</SimpleData>
+		<SimpleData name="Longitude">-42.717017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.717017,-4.929983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cacimba Velha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.944717</SimpleData>
+		<SimpleData name="Longitude">-42.6983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6983,-4.944717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazenda Nova</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9443</SimpleData>
+		<SimpleData name="Longitude">-42.67475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.67475,-4.9443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baixão da Cacimba Velha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.95445</SimpleData>
+		<SimpleData name="Longitude">-42.70575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.70575,-4.95445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taboquinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.959483</SimpleData>
+		<SimpleData name="Longitude">-42.70615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.70615,-4.959483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barreiros dos Henriques</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.258733</SimpleData>
+		<SimpleData name="Longitude">-42.6413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6413,-5.258733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Elias</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.269733</SimpleData>
+		<SimpleData name="Longitude">-42.61655</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.61655,-5.269733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>João Paulo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.286367</SimpleData>
+		<SimpleData name="Longitude">-42.60045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.60045,-5.286367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Francisco II</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.297333</SimpleData>
+		<SimpleData name="Longitude">-42.594183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.594183,-5.297333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Francisco I</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.279733</SimpleData>
+		<SimpleData name="Longitude">-42.585683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.585683,-5.279733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vaqueijador</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.269767</SimpleData>
+		<SimpleData name="Longitude">-42.59465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.59465,-5.269767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barreiro do Mariquinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.24685</SimpleData>
+		<SimpleData name="Longitude">-42.629617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.629617,-5.24685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chapadinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.208167</SimpleData>
+		<SimpleData name="Longitude">-42.615933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.615933,-5.208167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chatinho</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.207667</SimpleData>
+		<SimpleData name="Longitude">-42.591583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.591583,-5.207667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Limoeiro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.19335</SimpleData>
+		<SimpleData name="Longitude">-42.626433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.626433,-5.19335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Formosa II</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.227783</SimpleData>
+		<SimpleData name="Longitude">-42.667233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.667233,-5.227783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roda do Buriti</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.210983</SimpleData>
+		<SimpleData name="Longitude">-42.651117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.651117,-5.210983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro dos Afonsinhos</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.165317</SimpleData>
+		<SimpleData name="Longitude">-42.6379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6379,-5.165317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Formosa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.231983</SimpleData>
+		<SimpleData name="Longitude">-42.6749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6749,-5.231983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Helena</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.227467</SimpleData>
+		<SimpleData name="Longitude">-42.700633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.700633,-5.227467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Angolar</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.210183</SimpleData>
+		<SimpleData name="Longitude">-42.710783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.710783,-5.210183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boquinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.235067</SimpleData>
+		<SimpleData name="Longitude">-42.6743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6743,-5.235067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Extrema</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.279817</SimpleData>
+		<SimpleData name="Longitude">-42.6539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6539,-5.279817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amparo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.928883</SimpleData>
+		<SimpleData name="Longitude">-42.680533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.680533,-4.928883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caribita</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.95905</SimpleData>
+		<SimpleData name="Longitude">-42.712867</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.712867,-4.95905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Raimundo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.987167</SimpleData>
+		<SimpleData name="Longitude">-42.691917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.691917,-4.987167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Serra Dourada</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.998617</SimpleData>
+		<SimpleData name="Longitude">-42.7403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7403,-4.998617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soinho</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.999433</SimpleData>
+		<SimpleData name="Longitude">-42.732917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.732917,-4.999433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assentamento I</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.944233</SimpleData>
+		<SimpleData name="Longitude">-42.7272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7272,-4.944233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Assentamento II</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.930867</SimpleData>
+		<SimpleData name="Longitude">-42.7178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7178,-4.930867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baixão</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.96365</SimpleData>
+		<SimpleData name="Longitude">-42.717233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.717233,-4.96365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa da Mata</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.933233</SimpleData>
+		<SimpleData name="Longitude">-42.6802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6802,-4.933233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Árvores Verdes</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.999133</SimpleData>
+		<SimpleData name="Longitude">-42.689933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.689933,-4.999133</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vale Quem Tem</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.037217</SimpleData>
+		<SimpleData name="Longitude">-42.731283</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.731283,-5.037217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nova Cajaíba</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.916683</SimpleData>
+		<SimpleData name="Longitude">-42.695983</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.695983,-4.916683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazenda Siri</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.902383</SimpleData>
+		<SimpleData name="Longitude">-42.6986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6986,-4.902383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gurupá de Cima</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.997033</SimpleData>
+		<SimpleData name="Longitude">-42.775183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.775183,-4.997033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gurupá de Baixo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.96965</SimpleData>
+		<SimpleData name="Longitude">-42.769683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.769683,-4.96965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palemiras</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.91165</SimpleData>
+		<SimpleData name="Longitude">-42.75145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75145,-4.91165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estrada da Sta M. da Codipi</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.967067</SimpleData>
+		<SimpleData name="Longitude">-42.800533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.800533,-4.967067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bananal</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.969967</SimpleData>
+		<SimpleData name="Longitude">-42.8158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.8158,-4.969967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ave Verde</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9629</SimpleData>
+		<SimpleData name="Longitude">-42.801567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.801567,-4.9629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Geraldo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.949317</SimpleData>
+		<SimpleData name="Longitude">-42.765883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.765883,-4.949317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nova Laguna</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9137</SimpleData>
+		<SimpleData name="Longitude">-42.7719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7719,-4.9137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portal do São Vicente</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.909383</SimpleData>
+		<SimpleData name="Longitude">-42.792433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.792433,-4.909383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Divino</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.89095</SimpleData>
+		<SimpleData name="Longitude">-42.772367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.772367,-4.89095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anajás</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9455</SimpleData>
+		<SimpleData name="Longitude">-42.75565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75565,-4.9455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palmeira</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.915867</SimpleData>
+		<SimpleData name="Longitude">-42.751617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.751617,-4.915867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.91955</SimpleData>
+		<SimpleData name="Longitude">-42.752533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.752533,-4.91955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Luz de Baixo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.921</SimpleData>
+		<SimpleData name="Longitude">-42.770217</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.770217,-4.921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laguna</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.912517</SimpleData>
+		<SimpleData name="Longitude">-42.767467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.767467,-4.912517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baixão Do Carlos</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.965017</SimpleData>
+		<SimpleData name="Longitude">-42.750117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.750117,-4.965017</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pv. Matinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.961983</SimpleData>
+		<SimpleData name="Longitude">-42.763583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.763583,-4.961983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Mônica</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.953483</SimpleData>
+		<SimpleData name="Longitude">-42.76425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.76425,-4.953483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>José de Holanda</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.049917</SimpleData>
+		<SimpleData name="Longitude">-42.70725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.70725,-5.049917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gurupi</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.067683</SimpleData>
+		<SimpleData name="Longitude">-42.731633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.731633,-5.067683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pi 113</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.045867</SimpleData>
+		<SimpleData name="Longitude">-42.6837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6837,-5.045867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alves da Graça</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.782667</SimpleData>
+		<SimpleData name="Longitude">-42.822683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.822683,-4.782667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Maria da Codipi</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.984683</SimpleData>
+		<SimpleData name="Longitude">-42.84115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.84115,-4.984683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pq Firmino Filho</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.990183</SimpleData>
+		<SimpleData name="Longitude">-42.831533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.831533,-4.990183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pq Brasil 3</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.004067</SimpleData>
+		<SimpleData name="Longitude">-42.83765</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.83765,-5.004067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monte Verde</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.015267</SimpleData>
+		<SimpleData name="Longitude">-42.827817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.827817,-5.015267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fca Trindade</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.993883</SimpleData>
+		<SimpleData name="Longitude">-42.825967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.825967,-4.993883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matadouro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.946883</SimpleData>
+		<SimpleData name="Longitude">-42.851433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.851433,-4.946883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santo Agostinho</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.94135</SimpleData>
+		<SimpleData name="Longitude">-42.850533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.850533,-4.94135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Inês</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.88515</SimpleData>
+		<SimpleData name="Longitude">-42.865667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.865667,-4.88515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro do Sítio</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.868367</SimpleData>
+		<SimpleData name="Longitude">-42.848917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.848917,-4.868367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vila da COMVAP</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.853233</SimpleData>
+		<SimpleData name="Longitude">-42.876833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.876833,-4.853233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mata Pasto</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.898517</SimpleData>
+		<SimpleData name="Longitude">-42.881617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.881617,-4.898517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bela Vista</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.928733</SimpleData>
+		<SimpleData name="Longitude">-42.85585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.85585,-4.928733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portal da Parnaíba</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.902983</SimpleData>
+		<SimpleData name="Longitude">-42.839367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.839367,-4.902983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coroatá de Dentro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.951817</SimpleData>
+		<SimpleData name="Longitude">-42.641783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.641783,-4.951817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fazenda Soares</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.92555</SimpleData>
+		<SimpleData name="Longitude">-42.811667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.811667,-4.92555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marambaia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.881217</SimpleData>
+		<SimpleData name="Longitude">-42.788617</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.788617,-4.881217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baixa Escura</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.90025</SimpleData>
+		<SimpleData name="Longitude">-42.7056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7056,-4.90025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boqueirão</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.8941</SimpleData>
+		<SimpleData name="Longitude">-42.75865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.75865,-4.8941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soturno de Cima</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0628</SimpleData>
+		<SimpleData name="Longitude">-42.612067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.612067,-5.0628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Estaca Zero</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.060717</SimpleData>
+		<SimpleData name="Longitude">-42.654533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.654533,-5.060717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Br 343</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.064417</SimpleData>
+		<SimpleData name="Longitude">-42.642183</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.642183,-5.064417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povoado Pau de Cinza</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.090833</SimpleData>
+		<SimpleData name="Longitude">-42.649</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.649,-5.090833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto São Mateus</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.09435</SimpleData>
+		<SimpleData name="Longitude">-42.648383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.648383,-5.09435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pq. Panorama</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.09895</SimpleData>
+		<SimpleData name="Longitude">-42.644417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.644417,-5.09895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pau de Cinza</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.096867</SimpleData>
+		<SimpleData name="Longitude">-42.646933</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.646933,-5.096867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Povoado Atalaia</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.076933</SimpleData>
+		<SimpleData name="Longitude">-42.62145</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.62145,-5.076933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pq Bom Futuro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0881</SimpleData>
+		<SimpleData name="Longitude">-42.680667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.680667,-5.0881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conjunto PSH</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.085883</SimpleData>
+		<SimpleData name="Longitude">-42.694433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.694433,-5.085883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capim Duro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.095717</SimpleData>
+		<SimpleData name="Longitude">-42.674133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.674133,-5.095717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cajaíba (Pv José do Salú)</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.911083</SimpleData>
+		<SimpleData name="Longitude">-42.726267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.726267,-4.911083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro da Santa Luz</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9285</SimpleData>
+		<SimpleData name="Longitude">-42.740267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.740267,-4.9285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campestre</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.88165</SimpleData>
+		<SimpleData name="Longitude">-42.7384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7384,-4.88165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Apraz?vel</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.873183</SimpleData>
+		<SimpleData name="Longitude">-42.717817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.717817,-4.873183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Titara</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.847667</SimpleData>
+		<SimpleData name="Longitude">-42.707667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.707667,-4.847667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Meruoca</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.82485</SimpleData>
+		<SimpleData name="Longitude">-42.750383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.750383,-4.82485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gaspar</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.967533</SimpleData>
+		<SimpleData name="Longitude">-42.610733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.610733,-4.967533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Serra do Coroatá</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9641</SimpleData>
+		<SimpleData name="Longitude">-42.589883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.589883,-4.9641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P. de Galinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.952817</SimpleData>
+		<SimpleData name="Longitude">-42.581367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.581367,-4.952817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lembrada</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9531</SimpleData>
+		<SimpleData name="Longitude">-42.5677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5677,-4.9531</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoinha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.909883</SimpleData>
+		<SimpleData name="Longitude">-42.628767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.628767,-4.909883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bulena</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.92405</SimpleData>
+		<SimpleData name="Longitude">-42.631717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.631717,-4.92405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boi não Berra</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.95695</SimpleData>
+		<SimpleData name="Longitude">-42.642667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.642667,-4.95695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Teresa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.981383</SimpleData>
+		<SimpleData name="Longitude">-42.646567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.646567,-4.981383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coroatá</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.947717</SimpleData>
+		<SimpleData name="Longitude">-42.63755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.63755,-4.947717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Bento</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.987</SimpleData>
+		<SimpleData name="Longitude">-42.5897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5897,-4.987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São João</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.988267</SimpleData>
+		<SimpleData name="Longitude">-42.608883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.608883,-4.988267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terra Boa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0204</SimpleData>
+		<SimpleData name="Longitude">-42.698083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.698083,-5.0204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calengue</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.997167</SimpleData>
+		<SimpleData name="Longitude">-42.65895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.65895,-4.997167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trabalhosa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.969767</SimpleData>
+		<SimpleData name="Longitude">-42.666567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.666567,-4.969767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beco da Reposa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.992917</SimpleData>
+		<SimpleData name="Longitude">-42.67035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.67035,-4.992917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caminho Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.01045</SimpleData>
+		<SimpleData name="Longitude">-42.642317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.642317,-5.01045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mata Velha</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.98585</SimpleData>
+		<SimpleData name="Longitude">-42.62415</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.62415,-4.98585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alto da Paz</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.966917</SimpleData>
+		<SimpleData name="Longitude">-42.613317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.613317,-4.966917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Serra do Hélio</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.94735</SimpleData>
+		<SimpleData name="Longitude">-42.580733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.580733,-4.94735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santo Antonio</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.93065</SimpleData>
+		<SimpleData name="Longitude">-42.5898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.5898,-4.93065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canto do Romão</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.922233</SimpleData>
+		<SimpleData name="Longitude">-42.596367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.596367,-4.922233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mucambo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.8851</SimpleData>
+		<SimpleData name="Longitude">-42.615483</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.615483,-4.8851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Papagaio</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.009317</SimpleData>
+		<SimpleData name="Longitude">-42.637733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.637733,-5.009317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ladeira da Terra</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.042317</SimpleData>
+		<SimpleData name="Longitude">-42.607433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.607433,-5.042317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morro dos Caland</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.91565</SimpleData>
+		<SimpleData name="Longitude">-42.786033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.786033,-4.91565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boa Fé</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9199</SimpleData>
+		<SimpleData name="Longitude">-42.7926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7926,-4.9199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VL. São Raimundo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.923367</SimpleData>
+		<SimpleData name="Longitude">-42.813083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.813083,-4.923367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sta Teresa</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.985483</SimpleData>
+		<SimpleData name="Longitude">-42.6442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6442,-4.985483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa de Dentro</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.978117</SimpleData>
+		<SimpleData name="Longitude">-42.649683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.649683,-4.978117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Rita</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.966917</SimpleData>
+		<SimpleData name="Longitude">-42.613317</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.613317,-4.966917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cancela</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.995767</SimpleData>
+		<SimpleData name="Longitude">-42.643433</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.643433,-4.995767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soturno</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.034233</SimpleData>
+		<SimpleData name="Longitude">-42.647817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.647817,-5.034233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lagoa do Aprazível</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.86395</SimpleData>
+		<SimpleData name="Longitude">-42.715817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.715817,-4.86395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sem Terra</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.87405</SimpleData>
+		<SimpleData name="Longitude">-42.718533</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.718533,-4.87405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Campestre Norte</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.885633</SimpleData>
+		<SimpleData name="Longitude">-42.728917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.728917,-4.885633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canaã</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.957817</SimpleData>
+		<SimpleData name="Longitude">-42.79605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.79605,-4.957817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gurupá</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.96975</SimpleData>
+		<SimpleData name="Longitude">-42.769917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.769917,-4.96975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mundo Novo</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.941317</SimpleData>
+		<SimpleData name="Longitude">-42.742817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.742817,-4.941317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palmeiras</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.9138</SimpleData>
+		<SimpleData name="Longitude">-42.752267</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.752267,-4.9138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>São Vicente</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.8917</SimpleData>
+		<SimpleData name="Longitude">-42.7903</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.7903,-4.8917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Helena Norte</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-4.922233</SimpleData>
+		<SimpleData name="Longitude">-42.866817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.866817,-4.922233</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
