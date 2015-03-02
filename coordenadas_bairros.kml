@@ -215,7 +215,7 @@
       <Point><coordinates>-42.745868,-5.111568</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>MACA?BA</name>
+	<name>MACAÚBA</name>
 	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
 		<SimpleData name="Latitude">-5.109562</SimpleData>
 		<SimpleData name="Longitude">-42.801072</SimpleData>
@@ -391,7 +391,7 @@
       <Point><coordinates>-42.824623,-5.074577</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>São CRIST?VÃO</name>
+	<name>São CRISTOVÃO</name>
 	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
 		<SimpleData name="Latitude">-5.077552</SimpleData>
 		<SimpleData name="Longitude">-42.773915</SimpleData>
@@ -1253,6 +1253,14 @@
 		<SimpleData name="Longitude">-42.678433</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-42.678433,-5.09035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taboca do pau ferrado</name>
+	<ExtendedData><SchemaData schemaUrl="#coordenadas_bairros">
+		<SimpleData name="Latitude">-5.0922532</SimpleData>
+		<SimpleData name="Longitude">-42.6660490</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-42.6660490,-5.0922532</coordinates></Point>
   </Placemark>
   <Placemark>
 	<name>Pv. São Matheus</name>
