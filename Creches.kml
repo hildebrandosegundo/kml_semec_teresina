@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Folder>
+		<name>2 Creches</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Folder>
+			<name>Zona Leste</name>
+			<Placemark>
+				<name>ABC</name>
+				<styleUrl>#style175</styleUrl>
+				<Point>
+					<coordinates>-42.754227,-5.050131,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ALDA MARIA ALMENDRA FREITAS CASTELO BRANCO</name>
+				<styleUrl>#style310</styleUrl>
+				<Point>
+					<coordinates>-42.649952,-4.9781,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ANTONIO ALVES DE HOLANDA</name>
+				<styleUrl>#style62</styleUrl>
+				<Point>
+					<coordinates>-42.69181339853645,-4.915468489454458,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ARVORES VERDES</name>
+				<styleUrl>#style270</styleUrl>
+				<Point>
+					<coordinates>-42.68846879570029,-5.005109242164053,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BOM SAMARITANO</name>
+				<styleUrl>#style1741</styleUrl>
+				<Point>
+					<coordinates>-42.752495,-5.066324,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CIDADE LESTE</name>
+				<styleUrl>#style1470</styleUrl>
+				<Point>
+					<coordinates>-42.74653943807184,-5.040073368690219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CMEI Santa Bárbara</name>
+				<LookAt>
+					<longitude>-42.729430232883</longitude>
+					<latitude>-5.04374863472787</latitude>
+					<altitude>0</altitude>
+					<heading>-8.659811951329569e-006</heading>
+					<tilt>0</tilt>
+					<range>216.879223860149</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_images (2)0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.72971688525588,-5.043869608726919,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DANIELZINHO</name>
+				<styleUrl>#style2610</styleUrl>
+				<Point>
+					<coordinates>-42.76065196114436,-5.062894681384672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DOM AVELAR</name>
+				<styleUrl>#style1030</styleUrl>
+				<Point>
+					<coordinates>-42.73026653699596,-5.056151393471425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DOM MIGUEL CÂMARA</name>
+				<styleUrl>#style2460</styleUrl>
+				<Point>
+					<coordinates>-42.79498841469069,-5.073395438409791,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DONA MARIA  DE JESUS ARAUJO SILVEIRA</name>
+				<styleUrl>#style268</styleUrl>
+				<Point>
+					<coordinates>-42.77369878942245,-5.012756237607007,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GEOVANE PRADO</name>
+				<styleUrl>#style1130</styleUrl>
+				<Point>
+					<coordinates>-42.74317245899862,-5.046961833830405,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Julio César Araújo de Oliveira</name>
+				<LookAt>
+					<longitude>-42.75178033598453</longitude>
+					<latitude>-5.062350834150863</latitude>
+					<altitude>0</altitude>
+					<heading>-2.17492932708512</heading>
+					<tilt>8.943369179043735</tilt>
+					<range>323.6060498645893</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style2502</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.75178033598452,-5.062350834150863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LADEIRA DO URUGUAI</name>
+				<styleUrl>#style1620</styleUrl>
+				<Point>
+					<coordinates>-42.74445956743821,-5.068212838718285,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MADRE TERESA DE CALCUTÁ</name>
+				<styleUrl>#style13</styleUrl>
+				<Point>
+					<coordinates>-42.73305438612426,-5.048384298387549,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MAHATMA GANDHI</name>
+				<styleUrl>#style1240</styleUrl>
+				<Point>
+					<coordinates>-42.76165,-5.054053,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARIA AMÉLIA FREITAS MENDES DE OLIVEIRA</name>
+				<styleUrl>#style228</styleUrl>
+				<Point>
+					<coordinates>-42.73934621673387,-5.058723526768486,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maria do Amparo F. de Alencar</name>
+				<LookAt>
+					<longitude>-42.73924621782722</longitude>
+					<latitude>-5.030230757928335</latitude>
+					<altitude>0</altitude>
+					<heading>-5.450896977032143</heading>
+					<tilt>0</tilt>
+					<range>153.0039905677896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style2503</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.73922656230288,-5.030131935172904,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARINA SOARES DA SILVA</name>
+				<styleUrl>#style89</styleUrl>
+				<Point>
+					<coordinates>-42.78060120482206,-5.011173529668196,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NOVA TERESINA</name>
+				<styleUrl>#style1371</styleUrl>
+				<Point>
+					<coordinates>-42.79549142593358,-5.009653929385724,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE ANITA FERRAZ</name>
+				<styleUrl>#style2490</styleUrl>
+				<Point>
+					<coordinates>-42.77448656016471,-5.007782838630131,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE MÃO SANTA</name>
+				<styleUrl>#style2261</styleUrl>
+				<Point>
+					<coordinates>-42.742004,-5.054283,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Planalto Uruguai</name>
+				<LookAt>
+					<longitude>-42.73823892693355</longitude>
+					<latitude>-5.054502032211295</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001188855404695028</heading>
+					<tilt>27.85409179511506</tilt>
+					<range>429.7028527934599</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mstyle226</styleUrl>
+				<Point>
+					<coordinates>-42.73844972614159,-5.054320046844048,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Presidente Médice</name>
+				<LookAt>
+					<longitude>-42.77696479874745</longitude>
+					<latitude>-5.080388540219174</latitude>
+					<altitude>0</altitude>
+					<heading>1.209440382773325</heading>
+					<tilt>14.39607105689777</tilt>
+					<range>168.1081471181</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style25018</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.7769504024515,-5.080347915675177,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROF(a). MARIA ALDINEIA RODRIGUES DA SILVA</name>
+				<styleUrl>#style1770</styleUrl>
+				<Point>
+					<coordinates>-42.75902744058548,-5.047582595669277,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Professor Gilberto Ribeiro da Silva</name>
+				<LookAt>
+					<longitude>-42.78161400467889</longitude>
+					<latitude>-5.008132485277582</latitude>
+					<altitude>0</altitude>
+					<heading>94.19595123019326</heading>
+					<tilt>0</tilt>
+					<range>86.93030729615553</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style2507</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.78153631696144,-5.008085412169574,-820.7426746133293</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Profª. Roseana Maria M. de Lima</name>
+				<LookAt>
+					<longitude>-42.74592464888243</longitude>
+					<latitude>-5.046575403309116</latitude>
+					<altitude>0</altitude>
+					<heading>-0.6134563129846021</heading>
+					<tilt>0</tilt>
+					<range>83.16605785915773</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style25013</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.74592464888243,-5.046575403309116,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RAIMUNDA MARTINS NUNES PORTELA</name>
+				<styleUrl>#style1271</styleUrl>
+				<Point>
+					<coordinates>-42.75422897679061,-5.043070130849393,0</coordinates>
+				</Point>
+			</Placemark>
+			<Folder>
+				<name>Rural</name>
+			</Folder>
+			<Placemark>
+				<name>SANTA TERESINHA</name>
+				<styleUrl>#style118</styleUrl>
+				<Point>
+					<coordinates>-42.73923162437635,-4.884478702958801,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>São Francisco de Assis Leite</name>
+				<LookAt>
+					<longitude>-42.74879527964141</longitude>
+					<latitude>-5.044910928917509</latitude>
+					<altitude>0</altitude>
+					<heading>-166.4444731626274</heading>
+					<tilt>7.075807384165449</tilt>
+					<range>189.8064865979311</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style25017</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.74886907754057,-5.044980916584801,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SÃO VICENTE</name>
+				<styleUrl>#style631</styleUrl>
+				<Point>
+					<coordinates>-42.79002103530713,-4.907429145379019,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TAPUIA</name>
+				<styleUrl>#style10</styleUrl>
+				<Point>
+					<coordinates>-42.730747,-4.960268,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA ERINELDA VEIGA</name>
+				<styleUrl>#style1960</styleUrl>
+				<Point>
+					<coordinates>-42.77632642142401,-5.061341201712602,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA SABINA</name>
+				<styleUrl>#msn_images (2)2</styleUrl>
+				<Point>
+					<coordinates>-42.76982544597087,-4.91303605429979,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA ZORAIDE ALMEIDA</name>
+				<styleUrl>#style25019</styleUrl>
+				<Point>
+					<coordinates>-42.76549264703338,-5.056302130578698,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILA BANDEIRANTES</name>
+				<styleUrl>#style780</styleUrl>
+				<Point>
+					<coordinates>-42.75180329092142,-5.046410773324483,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILA DO AVIÃO</name>
+				<styleUrl>#style760</styleUrl>
+				<Point>
+					<coordinates>-42.786423,-5.011316,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zona Norte</name>
+			<Placemark>
+				<name>1.º DE MAIO</name>
+				<styleUrl>#style1990</styleUrl>
+				<Point>
+					<coordinates>-42.81209866387038,-5.0481621968525,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Adelaide Fonteneli</name>
+				<styleUrl>#style1191</styleUrl>
+				<Point>
+					<coordinates>-42.808029,-5.076013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AMÉLIA BEVILAQUA</name>
+				<styleUrl>#style1711</styleUrl>
+				<Point>
+					<coordinates>-42.84343,-4.984349,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ANITA FERRAZ</name>
+				<styleUrl>#style551</styleUrl>
+				<Point>
+					<coordinates>-42.821507,-5.041158,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>APOLÔNIA CARVALHO</name>
+				<styleUrl>#style142</styleUrl>
+				<Point>
+					<coordinates>-42.8379061204138,-5.050202663375164,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dagmar Mazza Fortes</name>
+				<styleUrl>#style991</styleUrl>
+				<Point>
+					<coordinates>-42.82773245446592,-5.061448329716132,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DALAI LAMA</name>
+				<styleUrl>#style1141</styleUrl>
+				<Point>
+					<coordinates>-42.873905,-4.89351,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DONA  ODINEA</name>
+				<styleUrl>#style240001</styleUrl>
+				<Point>
+					<coordinates>-42.808426,-5.038365,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ZÉLIA GATTAI AMADO</name>
+				<LookAt>
+					<longitude>-42.83375317889817</longitude>
+					<latitude>-5.068370220805027</latitude>
+					<altitude>0</altitude>
+					<heading>-23.89225476620693</heading>
+					<tilt>0</tilt>
+					<range>107.8816559111166</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style141</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.83375317889817,-5.068370220805027,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FRANCISCO DE ASSIS</name>
+				<styleUrl>#style1251</styleUrl>
+				<Point>
+					<coordinates>-42.81818762492589,-5.03511984983373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HELENA MARIA RODRIGUES DE CARVALHO</name>
+				<styleUrl>#style44</styleUrl>
+				<Point>
+					<coordinates>-42.82248614010536,-5.048359984007352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Joffre Castelo Branco</name>
+				<Camera>
+					<longitude>-42.81239521518155</longitude>
+					<latitude>-5.074703560739123</latitude>
+					<altitude>195.8880591186727</altitude>
+					<heading>41.71752046130318</heading>
+					<tilt>0.03836739656575004</tilt>
+					<roll>45.60576030253942</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#style2550</styleUrl>
+				<Point>
+					<coordinates>-42.812698,-5.074475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JOSE JOAO DE MAGALHAES BRAGA</name>
+				<styleUrl>#style95</styleUrl>
+				<Point>
+					<coordinates>-42.82685174346103,-4.985281446608648,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LOUVOR E VIDA</name>
+				<styleUrl>#style266</styleUrl>
+				<Point>
+					<coordinates>-42.8042210365877,-5.044941940482508,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mirian II</name>
+				<styleUrl>#style2340</styleUrl>
+				<Point>
+					<coordinates>-42.81395,-5.029853,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mocambinho</name>
+				<styleUrl>#style16700</styleUrl>
+				<Point>
+					<coordinates>-42.809002,-5.023265,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MONTE VERDE</name>
+				<styleUrl>#style301</styleUrl>
+				<Point>
+					<coordinates>-42.821487,-4.994863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NATUREZA</name>
+				<styleUrl>#style23201</styleUrl>
+				<Point>
+					<coordinates>-42.80824091250213,-5.051627487623317,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE FIRMINO FILHO</name>
+				<styleUrl>#style9101</styleUrl>
+				<Point>
+					<coordinates>-42.83400188576445,-4.98975234216691,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE WALL FERRAZ</name>
+				<styleUrl>#style72</styleUrl>
+				<Point>
+					<coordinates>-42.83557221613998,-4.986500242226623,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROFESSORA HILDA MARIA LEMOS DOS SANTOS</name>
+				<styleUrl>#style650</styleUrl>
+				<Point>
+					<coordinates>-42.83271430620125,-4.994739155587286,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROFESSORA ZELIA CALIXTO DE ARAUJO SOUSA</name>
+				<styleUrl>#style122</styleUrl>
+				<Point>
+					<coordinates>-42.82324955352653,-5.004937252344896,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTA  MARIA DA CODIPI</name>
+				<styleUrl>#style2071</styleUrl>
+				<Point>
+					<coordinates>-42.83027967130697,-4.982579298930901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTA MARIA  DAS VASSOURAS</name>
+				<styleUrl>#style590</styleUrl>
+				<Point>
+					<coordinates>-42.84115084137716,-4.991883720240275,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA ALICE</name>
+				<styleUrl>#style480</styleUrl>
+				<Point>
+					<coordinates>-42.83624946326486,-5.060096146957505,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA ANITA GAYOSO</name>
+				<styleUrl>#style1110</styleUrl>
+				<Point>
+					<coordinates>-42.8123390092251,-5.048396569003416,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA CARLOTA MARIA DE CARVALHO</name>
+				<styleUrl>#style106</styleUrl>
+				<Point>
+					<coordinates>-42.82332301180782,-5.035491576523166,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA HELENA MEDEIROS</name>
+				<styleUrl>#style9000</styleUrl>
+				<Point>
+					<coordinates>-42.832867,-5.06216,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA JANE</name>
+				<styleUrl>#style146</styleUrl>
+				<Point>
+					<coordinates>-42.83805749240566,-5.051748656105398,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA KININHA</name>
+				<styleUrl>#style116</styleUrl>
+				<Point>
+					<coordinates>-42.82192427554473,-5.040082000403248,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA LULUZINHA</name>
+				<styleUrl>#style2001</styleUrl>
+				<Point>
+					<coordinates>-42.8124934168807,-5.044269782938336,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA MIRIAM III</name>
+				<styleUrl>#style1330</styleUrl>
+				<Point>
+					<coordinates>-42.80932767528212,-5.024751368655845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA MÔNICA</name>
+				<styleUrl>#mstyle133</styleUrl>
+				<Point>
+					<coordinates>-42.83339541499056,-5.052768954535915,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA REGINA NAPOLEÃO</name>
+				<styleUrl>#style204</styleUrl>
+				<Point>
+					<coordinates>-42.83469287210218,-5.044615728068658,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA TÂNIA</name>
+				<styleUrl>#style1410</styleUrl>
+				<Point>
+					<coordinates>-42.81393583433976,-5.052199035068969,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vila Pantanal II</name>
+				<styleUrl>#msn_images (2)10</styleUrl>
+				<Point>
+					<coordinates>-42.828308,-5.059297,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Padre Eduardo</name>
+				<LookAt>
+					<longitude>-42.83492362592432</longitude>
+					<latitude>-5.055104344111108</latitude>
+					<altitude>0</altitude>
+					<heading>-138.4364009252084</heading>
+					<tilt>0</tilt>
+					<range>268.8739294436181</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.83498636459341,-5.055223548603514,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zona Sudeste</name>
+			<Placemark>
+				<name>ALTO DA RESSURREIÇÃO</name>
+				<styleUrl>#style320</styleUrl>
+				<Point>
+					<coordinates>-42.73936845674908,-5.085589154453903,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BERNARD VAN LEER</name>
+				<styleUrl>#style1791</styleUrl>
+				<Point>
+					<coordinates>-42.75442036529024,-5.116408672038946,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CHICO XAVIER</name>
+				<styleUrl>#style511</styleUrl>
+				<Point>
+					<coordinates>-42.73353932871523,-5.100807643209321,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cintia Medeiros</name>
+				<LookAt>
+					<longitude>-42.7430459768059</longitude>
+					<latitude>-5.110165708319161</latitude>
+					<altitude>0</altitude>
+					<heading>-2.17538369888553</heading>
+					<tilt>7.582097355342442</tilt>
+					<range>217.1401040961262</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mstyle40</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.7430459768059,-5.11016570831916,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Clarice Lispector</name>
+				<LookAt>
+					<longitude>-42.73821615547413</longitude>
+					<latitude>-5.08955162094264</latitude>
+					<altitude>0</altitude>
+					<heading>-1.934525212328521</heading>
+					<tilt>0</tilt>
+					<range>318.1403853286178</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mstyle40</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.73821615547414,-5.08955162094264,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EMERSON DE JESUS SILVA</name>
+				<styleUrl>#style108</styleUrl>
+				<Point>
+					<coordinates>-42.75583544140401,-5.103098863877952,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FREI DAMIÃO</name>
+				<styleUrl>#style2350</styleUrl>
+				<Point>
+					<coordinates>-42.735729,-5.088386,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GILCA VANESSA</name>
+				<styleUrl>#style1211</styleUrl>
+				<Point>
+					<coordinates>-42.751823,-5.113771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JOÃO MENDES OLIMPIO DE MELO</name>
+				<styleUrl>#style9</styleUrl>
+				<Point>
+					<coordinates>-42.743195,-5.101827,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JOÃO PAULO II</name>
+				<styleUrl>#style1831</styleUrl>
+				<Point>
+					<coordinates>-42.69469123258139,-5.147211709657947,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARIA AUGUSTA DE JESUS</name>
+				<styleUrl>#style2161</styleUrl>
+				<Point>
+					<coordinates>-42.75915121476298,-5.11205167741675,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARIA JOSE ARCOVERDE</name>
+				<styleUrl>#style750</styleUrl>
+				<Point>
+					<coordinates>-42.75803974172094,-5.098639515900573,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MENINO JESUS</name>
+				<styleUrl>#style236</styleUrl>
+				<Point>
+					<coordinates>-42.75970364603917,-5.121703149270664,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NOSSA SENHORA DA GUIA</name>
+				<styleUrl>#msn_images (2)40</styleUrl>
+				<Point>
+					<coordinates>-42.770763,-5.106985,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NOVO MILÊNIO</name>
+				<styleUrl>#msn_images (2)4</styleUrl>
+				<Point>
+					<coordinates>-42.725559,-5.101647,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE ESPERANÇA</name>
+				<styleUrl>#style107</styleUrl>
+				<Point>
+					<coordinates>-42.75496400094849,-5.120047404989688,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pe. PEDRO BALZI</name>
+				<LookAt>
+					<longitude>-42.70710643996239</longitude>
+					<latitude>-5.100572144905116</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001318747069084441</heading>
+					<tilt>18.00822695450997</tilt>
+					<range>550.7720243149153</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mstyle40</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.70753865443953,-5.099859048081996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RECANTO DOS PASSAROS</name>
+				<styleUrl>#msn_images (2)02</styleUrl>
+				<Point>
+					<coordinates>-42.70929355374221,-5.117982462181833,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RESIDENCIAL FIRMINO FILHO</name>
+				<styleUrl>#mstyle621</styleUrl>
+				<Point>
+					<coordinates>-42.736923,-5.113014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAGRADO CORAÇÃO DE JESUS</name>
+				<styleUrl>#msn_images (2)1</styleUrl>
+				<Point>
+					<coordinates>-42.66624137048502,-5.088900460125034,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SÃO SEBASTIÃO</name>
+				<styleUrl>#msn_images (2)4</styleUrl>
+				<Point>
+					<coordinates>-42.733185,-5.109665,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TERESINHA DE JESUS E SILVA</name>
+				<styleUrl>#mstyle621</styleUrl>
+				<Point>
+					<coordinates>-42.721283,-5.095042,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA EUTÁLIA</name>
+				<styleUrl>#msn_images (2)3</styleUrl>
+				<Point>
+					<coordinates>-42.758446,-5.109446,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIO FERNANDO SANTIAGO</name>
+				<styleUrl>#style96</styleUrl>
+				<Point>
+					<coordinates>-42.68771534759136,-5.153436261530715,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILA MARIANA FORTES</name>
+				<styleUrl>#msn_images (2)6</styleUrl>
+				<Point>
+					<coordinates>-42.76216987626777,-5.098927255315239,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILA POTY II</name>
+				<styleUrl>#msn_images (2)01</styleUrl>
+				<Point>
+					<coordinates>-42.735481,-5.110487,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ÉRICO VERÍSSIMO</name>
+				<LookAt>
+					<longitude>-42.69401110349473</longitude>
+					<latitude>-5.086270132157087</latitude>
+					<altitude>0</altitude>
+					<heading>-4.36872924010704</heading>
+					<tilt>3.111446347495379</tilt>
+					<range>492.8899839585039</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#failed2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.69407659837496,-5.085932495898391,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Zona Sul</name>
+			<Placemark>
+				<name>ANDRÉ DIUARE</name>
+				<LookAt>
+					<longitude>-42.75693971316112</longitude>
+					<latitude>-5.154490411219486</latitude>
+					<altitude>0</altitude>
+					<heading>3.161289123259195</heading>
+					<tilt>0</tilt>
+					<range>1005.577448224487</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#mfailed</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.75703093941749,-5.154611636100511,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ANGELIM IV</name>
+				<styleUrl>#style400</styleUrl>
+				<Point>
+					<coordinates>-42.789864,-5.183584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BOM JESUS/ WALL FERRAZ</name>
+				<styleUrl>#style600</styleUrl>
+				<Point>
+					<coordinates>-42.78311809575418,-5.155489131983337,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CHAPADINHA SUL</name>
+				<styleUrl>#style520</styleUrl>
+				<Point>
+					<coordinates>-42.71124457224758,-5.300290638667884,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CHICO  MENDES</name>
+				<styleUrl>#style1090</styleUrl>
+				<Point>
+					<coordinates>-42.75119387405206,-5.185237863299849,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CIRANDINHA</name>
+				<styleUrl>#style491</styleUrl>
+				<Point>
+					<coordinates>-42.78596763954459,-5.110974311373955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CMEI ARIANO SUASSUNA</name>
+				<LookAt>
+					<longitude>-42.73103759250321</longitude>
+					<latitude>-5.189397741901724</latitude>
+					<altitude>0</altitude>
+					<heading>1.134857714534549</heading>
+					<tilt>19.0491306864316</tilt>
+					<range>1210.904272117068</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_images (2)</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.73296341235101,-5.190064685699992,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CÁSSIA CRISTINA</name>
+				<styleUrl>#style831</styleUrl>
+				<Point>
+					<coordinates>-42.79460087500514,-5.157188575001424,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ENILSON CARVALHO</name>
+				<styleUrl>#style267</styleUrl>
+				<Point>
+					<coordinates>-42.77823794092161,-5.15996641552169,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FIRMINO FILHO</name>
+				<styleUrl>#style531</styleUrl>
+				<Point>
+					<coordinates>-42.78642375706699,-5.129921189385308,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FRANCISCA DE SOUSA PACHECO</name>
+				<styleUrl>#style1871</styleUrl>
+				<Point>
+					<coordinates>-42.7863864862364,-5.168877610663257,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FRANCISCO HARDI FILHO</name>
+				<LookAt>
+					<longitude>-42.77514318177405</longitude>
+					<latitude>-5.152623218161867</latitude>
+					<altitude>0</altitude>
+					<heading>3.164298138653917</heading>
+					<tilt>17.40338704868485</tilt>
+					<range>333.2449997816442</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style28050</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.77552216567842,-5.152503325345118,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HERCILIA TORRES DE ALMEIDA</name>
+				<styleUrl>#style351</styleUrl>
+				<Point>
+					<coordinates>-42.790425397037,-5.141308229994867,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IMACULADA CONCEIÇÃO</name>
+				<styleUrl>#style2111</styleUrl>
+				<Point>
+					<coordinates>-42.79666273559147,-5.102431261800712,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>IRMÃ DULCE</name>
+				<styleUrl>#style870</styleUrl>
+				<Point>
+					<coordinates>-42.77431362231162,-5.190629920775608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JESUS DIOCESANO</name>
+				<styleUrl>#style801</styleUrl>
+				<Point>
+					<coordinates>-42.78832677144418,-5.139822938400759,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JOÃO NONON DE MOURA FORTES IBIAPINA</name>
+				<styleUrl>#style81</styleUrl>
+				<Point>
+					<coordinates>-42.77703901126152,-5.17450472926212,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LUIZ GONZAGA PIRES</name>
+				<styleUrl>#style1231</styleUrl>
+				<Point>
+					<coordinates>-42.77499532434618,-5.138192483859116,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LUTERANA</name>
+				<LookAt>
+					<longitude>-42.77984546689879</longitude>
+					<latitude>-5.143577495781829</latitude>
+					<altitude>0</altitude>
+					<heading>-167.5786604008416</heading>
+					<tilt>0</tilt>
+					<range>146.9039506476546</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#style45</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.77953254802546,-5.143430355522643,-820.6763323668336</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARCOS VILAÇA</name>
+				<styleUrl>#style2401</styleUrl>
+				<Point>
+					<coordinates>-42.788452,-5.116882,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARIA ALVES DA SILVA SANTOS</name>
+				<styleUrl>#style24</styleUrl>
+				<Point>
+					<coordinates>-42.74750287314099,-5.140835911232377,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARIANA DA SILVA SANTOS</name>
+				<styleUrl>#style1291</styleUrl>
+				<Point>
+					<coordinates>-42.80638395036735,-5.229353890130017,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MIRIAN FURTADO</name>
+				<styleUrl>#style1981</styleUrl>
+				<Point>
+					<coordinates>-42.7907846640779,-5.115460826163316,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MONSENHOR CHAVES</name>
+				<styleUrl>#style6200</styleUrl>
+				<Point>
+					<coordinates>-42.75442118445074,-5.15077628424213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NOSSA SENHORA DA PAZ</name>
+				<styleUrl>#msn_images (2)20</styleUrl>
+				<Point>
+					<coordinates>-42.78388996871362,-5.113340881192365,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NOSSA SENHORA MARIA AUXILIADORA</name>
+				<styleUrl>#failed1</styleUrl>
+				<Point>
+					<coordinates>-42.78036116161006,-5.118581030461717,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE DAGMAR MAZZA</name>
+				<styleUrl>#style1971</styleUrl>
+				<Point>
+					<coordinates>-42.76472566905899,-5.159352915385555,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PARQUE SÃO JOÃO</name>
+				<styleUrl>#style790</styleUrl>
+				<Point>
+					<coordinates>-42.79966,-5.130029,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PEDRO MENDES RIBEIRO</name>
+				<LookAt>
+					<longitude>-42.80343903824092</longitude>
+					<latitude>-5.106537621148052</latitude>
+					<altitude>0</altitude>
+					<heading>-142.5641519968618</heading>
+					<tilt>0</tilt>
+					<range>179.5385228944118</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_images (2)70</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.80331983987709,-5.106611646214949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Presidente Costa e Silva</name>
+				<LookAt>
+					<longitude>-42.79202314450984</longitude>
+					<latitude>-5.118556766523149</latitude>
+					<altitude>0</altitude>
+					<heading>-2.902084108890207</heading>
+					<tilt>0</tilt>
+					<range>130.9333630513471</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_images (2)70</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.79202314450984,-5.118556766523148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROFESSOR FRANCISCO DAS CHAGAS VENÂNCIO</name>
+				<styleUrl>#style410</styleUrl>
+				<Point>
+					<coordinates>-42.78221444269241,-5.138042468155333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROFESSOR WALL FERRAZ</name>
+				<styleUrl>#mstyle79</styleUrl>
+				<Point>
+					<coordinates>-42.79867944580312,-5.277067285293666,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROFESSORA ANTONIA NONATO</name>
+				<styleUrl>#mstyle621</styleUrl>
+				<Point>
+					<coordinates>-42.790314,-5.092255,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROFESSORA HILDETE</name>
+				<styleUrl>#style220001</styleUrl>
+				<Point>
+					<coordinates>-42.766376,-5.157448,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PROFESSORA MARIA DO CARMO NUNES</name>
+				<styleUrl>#style2181</styleUrl>
+				<Point>
+					<coordinates>-42.7947557707804,-5.147706305593612,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RENATINHA</name>
+				<styleUrl>#style135</styleUrl>
+				<Point>
+					<coordinates>-42.78397085592014,-5.14961444169181,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RESIDENCIAL BETINHO</name>
+				<styleUrl>#style820</styleUrl>
+				<Point>
+					<coordinates>-42.78550862796296,-5.164056191742589,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RESIDENCIAL ESPLANADA</name>
+				<styleUrl>#mstyle82</styleUrl>
+				<Point>
+					<coordinates>-42.76356294700702,-5.193716297173919,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RUTH CORREIA LEITE CARDOSO</name>
+				<LookAt>
+					<longitude>-42.78306936619205</longitude>
+					<latitude>-5.192352859060567</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001068510643183267</heading>
+					<tilt>25.78186283493398</tilt>
+					<range>491.0712239599251</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_images (2)5</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-42.78288109894828,-5.192968728439845,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTA CRUZ</name>
+				<styleUrl>#style1531</styleUrl>
+				<Point>
+					<coordinates>-42.78883742615532,-5.155725031731126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTA FRANCISCA CABRINE</name>
+				<styleUrl>#style1860</styleUrl>
+				<Point>
+					<coordinates>-42.76367907339409,-5.195950247651032,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTA HELENA</name>
+				<styleUrl>#style212</styleUrl>
+				<Point>
+					<coordinates>-42.76323111001155,-5.176344817389628,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SANTO ANTONIO</name>
+				<styleUrl>#style52</styleUrl>
+				<Point>
+					<coordinates>-42.77293673630542,-5.159655099037608,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA ANITA</name>
+				<styleUrl>#style1940</styleUrl>
+				<Point>
+					<coordinates>-42.789471,-5.175058,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA FRANCISQUINHA</name>
+				<styleUrl>#style341</styleUrl>
+				<Point>
+					<coordinates>-42.787003,-5.160992,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA GRAÇA NERY</name>
+				<styleUrl>#mstyle141</styleUrl>
+				<Point>
+					<coordinates>-42.80806095326363,-5.119242050309299,74.39</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIA LYGIA</name>
+				<styleUrl>#msn_images (2)00</styleUrl>
+				<Point>
+					<coordinates>-42.7903455244353,-5.095543095545233,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Valquiria Ferraz Sousa</name>
+				<styleUrl>#style1380</styleUrl>
+				<Point>
+					<coordinates>-42.813732,-5.112438,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILA CAROLINA SILVA</name>
+				<styleUrl>#style161</styleUrl>
+				<Point>
+					<coordinates>-42.792068,-5.153533,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VIla Clemente Fortes</name>
+				<styleUrl>#style431</styleUrl>
+				<Point>
+					<coordinates>-42.79169880017509,-5.154823864851473,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILA CONCÓRDIA</name>
+				<styleUrl>#style242</styleUrl>
+				<Point>
+					<coordinates>-42.777771,-5.129709,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VILA TIRADENTES</name>
+				<styleUrl>#mstyle1610</styleUrl>
+				<Point>
+					<coordinates>-42.770195,-5.145376,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vovó Lais</name>
+				<styleUrl>#mstyle4</styleUrl>
+				<Point>
+					<coordinates>-42.78262132275332,-5.154099319455625,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
